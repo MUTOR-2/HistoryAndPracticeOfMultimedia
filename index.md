@@ -3,9 +3,65 @@ layout: page
 title: Home
 ---
 
-# Welcome to the MUsic Technology Online Repository
+# History and Practice of Multimedia - Online Lecture Series
 
-MUTOR offers open courses and license-free teaching materials for distant and blended learning in music technology. The repository was designed to answer to the needs of bachelor and master students as well as the general public interested in questions such as "what is multimedia (in a primarily musical context)", "how do we perceive and process music cognitively", "what is microtonality", "how do we synthesize new sounds", "how do we combine sounds with images", "how do we move sounds in space", "how do we track the movements and gestures of performers" and many more. Currently, we have completed a course on __The Science of Music__ and are starting a second one on __The History and Practice of Multimedia__. So enjoy the content that we have already created and stay tuned for more.
+This online English language lecture series focuses on the 
+History and Practice of Multimedia with an emphasis on music.
+We have invited members of the HfMT multimedia department
+as well as international scholars and practitioners to present
+on their respective fields of specialization 
+(Constantin Basica, Kerstin Evert, Teoma Naccarato, Cat Hope,
+Johannes Kreidler, Randall Packer, and others).
+Topics include the definition, history, and appearances of multimedia.
+The lecture series will take place during the summer term, every
+Wednesday at 18:30h starting on April 7.
 
-We would like to thank the [HOOU GmbH](https://www.hoou.de/institutions/hochschule-fur-musik-und-theater) for their support.
+This lecture series is part of the Hamburg Open Online University (HOOU) 
+and serves as the basis for a new class within the 
+Music Technology Online Repository (MUTOR).
 
+Links to the individual events will be posted here.
+
+# Dates (subject to change)
+
+<table class="hpm-event-table">
+<thead>
+<tr>
+<th>Date</th>
+<th>Topics</th>
+<th>Presenters</th>
+<th>Event Page</th>
+<th>Unit</th>
+</tr>
+</thead>
+<tbody>
+{% for post in site.posts reversed %}
+<tr>
+<td>{{ post.presentation-date }}
+</td><td>{{ post.topic }}
+</td><td>
+{% assign npresenters = post.presenters | size %}
+{% if npresenters == 1 %}
+{{ post.presenters[0].name }}
+{% elsif npresenters == 2 %}
+{{ post.presenters[0].name }} and {{ post.presenters[1].name }}
+{% else %}
+{{ post.presenters[0].name }}
+{% for p in post.presenters offset: 2 %}
+{% if forloop.last %}
+and {{ post.presenters[0].name }}
+{% else %}
+, {{ post.presenters[0].name }}
+{% endif %}
+{% endfor %}
+{% endif %}
+</td><td><a href="{{ site.baseurl }}{{ post.url }}">link</a>
+</td><td>
+{% if post.unit %}
+<a href="{{ site.baseurl }}/units/{{ post.unit }}">link</a>
+{% endif %}
+</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
