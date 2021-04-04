@@ -11,19 +11,17 @@ do this--the following steps will take you through one of them.
 Let's say we want to create a course called 
 [Underwater Basket Weaving](https://en.wikipedia.org/wiki/Underwater_basket_weaving).
 We would start by making a new, empty repository on GitHub:
-[https://github.com/organizations/MUTOR-2/repositories/new](https://github.com/organizations/MUTOR-2/repositories/new).
-
-You will see a screen like this: 
-
-![](assets/images/gh_create_repo.png)
+[
+https://github.com/organizations/MUTOR-2/repositories/new
+](
+https://github.com/organizations/MUTOR-2/repositories/new
+).
 
 Make your repo Public, not Private, and be sure to NOT include a README, 
 license or .gitignore--those will be provided
 by this Template.
 
-Click `Create repository`, and ignore GitHub's post-creation instructions:
-
-![](assets/images/gh_post_creation.png)
+Click `Create repository`.
 
 The following instructions use the commandline to set up your repo. (It may
 be possible to do this with the Desktop client, but probably easier to
@@ -48,6 +46,15 @@ Now pull the submodules:
 
     $ git submodule update --init --recursive
     
+### Edit _config.yml with the details of your course
+
+`_config.yml` contains a number of site-wide variables that need to be 
+set with the details of the new course. See that file for instructions.
+
+The only variable that really must be set for relative links to work 
+on the site is `baseurl`; set it to the name of your repo, 
+i.e. `/UnderwaterBasketWeaving`.
+    
 ### Link your local repo to GitHub
 
 Now we set the remote origin to point to the GitHub repo we created above,
@@ -61,12 +68,7 @@ in the process:
 
     $ git push -u origin main
 
-## Edit _config.yml with the details of your course
-
-`_config.yml` contains a number of site-wide variables that need to be 
-set with the details of the new course. See that file for instructions.
-
-## Set up GitHub Pages
+### Set up GitHub Pages
 
 Go to the GitHub page for your repository 
 (e.g. https://github.com/mutor-2/UnderwaterBasketWeaving)
