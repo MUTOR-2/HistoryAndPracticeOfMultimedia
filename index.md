@@ -47,11 +47,11 @@ Links to the individual events will be posted here.
 {{ post.presenters[0].name }} and {{ post.presenters[1].name }}
 {% else %}
 {{ post.presenters[0].name }}
-{% for p in post.presenters offset: 2 %}
-{% if forloop.last %}
-and {{ post.presenters[0].name }}
-{% else %}
-, {{ post.presenters[0].name }}
+{%- for p in post.presenters offset: 1 -%}
+{%- if forloop.last -%}
+and {{ p.name }}
+{%- else -%}
+, {{ p.name }}
 {% endif %}
 {% endfor %}
 {% endif %}
