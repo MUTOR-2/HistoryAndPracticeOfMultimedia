@@ -35,12 +35,17 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+
+
 # Introduction
 
-Three phases since 1950:
-Speculative phase (1950-1970)
-Exploratory phase (1970-2000)
-Interactive (post-digital) phase (since 2000)
+Multimedia can be conceptually understood as a co-evolution of artistic expressions and computers, shaped by memes that have dominated our thinking since World War II. Among these are the axioms of information theory or cybernetics, which since their beginnings in the early 1940s have spread rapidly into seemingly unrelated fields such as literature, the visual arts, and music. It comes as no surprise that both cyberneticists have sought to apply their principles to the field of music, image and literature, etc. and artists have longed to use computers to formalize creative processes. In the process, this co-evolution has gone through three phases, which we could call speculative (1950-70), exploratory (1970-2000), and interactive (since 2000) phases of computer music. Particularly in the transition to the last phase, we observe a paradigm shift that also goes hand in hand with a changing function of music, art, and media in Western societies. Some also refer to it as postdigital.
+
+One of the main achievements of gender studies is the recognition that the history of the arts (and particularly that of music) is a construct to which, depending on the perspective of the observer, alternative histories are conceivable. The same holds when attempting to provide a historical overview of the inspiration that computers have had on composers. Apart from the fact that alternative understandings of this history exist, justice cannot be done here in this chapter to all the protagonists who have contributed significantly to this subject. 
+
+Let this text be understood as a look through the keyhole of recent music history: a story of a rapid development that is only in its infancy. It can also be assumed that the interaction between computers and the arts is not a direct one, but is mediated by the so-called zeitgeist. The term zeitgeist succinctly stands for the phenomenon of memes - concepts and ideas - that can appear simultaneously in different places and then spread throughout wide areas of culture. Thus it becomes understandable that the computer or information science can be seen as an inspiration even when the composers themselves did not work with computers or even - like Karlheinz Stockhausen, for example - were highly skeptical of the machine. Against this backdrop it becomes clear why Stockhausen needs finds a place in this story.
+
+If now in the following an attempt is made to present the history of computer music in three phases, it is also important to note that there are of course smooth transitions and overlaps. Though, for example, the beginning of interactive music is given as the year 2000, one should be aware of the fact that the origins of interactivity go back to the first beginnings of computer music and that important interactive pieces, for example those by Michel Waisvisz were  realized as early as the 1980s.
 
 # SPECULATIVE PHASE
 ## The precursors
@@ -56,6 +61,24 @@ https://elearning.hfmt-hamburg.de/pluginfile.php/7165/mod_page/content/6/ENIAC.p
 https://elearning.hfmt-hamburg.de/pluginfile.php/7172/mod_resource/content/1/Norbert_Wiener_Cybernetics.pdf
 
 ### Information Theory
+
+The year 1945 marked a new beginning in the history of the Western world. Fascism and nationalism have plunged almost the entire civilized world into a war of annihilation, to which the United States responded with an unparalleled rearmament. In the course of this mobilization, in addition to the atomic bomb, which helped to finally end the world war, the US Army Ordnance started to develop the ENIAC (Electronic Numerical Integrator And Computer), the first digital computer, in 1943. At the same time, Leo Szilárd (1898-1964), John von Neumann (1903-1957) and Norbert Wiener (1894-1964) laid the mathematical foundations of information theory. It was Wiener who invented the word "cybernetics" in 1947 as an umbrella term for the science of "communication and control in the animal and the machine". We should  note that the ENIAC, completed in late 1945, was by no means the first digital computer: The Z3 computer built by Conrad Zuse was finished four years ealier but never put to use.  
+
+Parallel to the spread of cybernetics in the exact sciences, principles of serial music increasingly determined compositional development. In 1949 Olivier Messiaen composed the piano etude "Mode de valeurs et d'intensités," influenced by Webern, which is generally considered the beginning of this musical direction. A direction that was eventually taken up and further developed by the young composers of the early Darmstadt School (Pierre Boulez, Luigi Nono, Karlheinz Stockhausen, and others). Both approaches, information theory and serial music, have in common a thinking in quantizable, statistically detectable units of information. Iannis Xenakis consequently introduced the concept of stochastics into musical discourse in his 1955 critique of "linear counterpoint".
+
+Information theory, as a still very young field of science, still raised numerous questions in its heuristic application to music. In retrospect, many of these assumptions were utopian and hardly verifiable; one can therefore call this phase in computer music, which lasted roughly until 1970, the "speculative phase". Without extensive knowledge of the mechanisms of hearing, which hardly went beyond Helmholtz's research, information theory seemed at least to give composers a tool with which to organize the almost endless possibilities of electronic, as well as acoustic, music.
+
+The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectures on information theory and computer music at the International Summer Courses for New Music in Darmstadt in 1963. His conception of musical information density was informed by statistics and the mathematical foundations of communication theory. Hiller's diagrams comparing the information speeds of selected compositions from Mozart to Hindemith (measured in bits per second) seem strange from the distance of 40 years, but they corresponded to a widespread way of thinking at that time.
+
+Iannis Xenakis (1922-2001), who also worked for a time as an architect under Le Corbusier, was certainly the most publicly celebrated computer composer. He drew his inspiration, along with ancient Greek mythology, from complex geometric figures and statistical procedures known as stochastics. In "Formalized Music: Thought and Mathematics in Composition" (1971), in some ways the counterpart to Messiaen's "Technique de mon language musical," Xenakis describes the mathematical prerequisites for his work, his thinking in terms of densities and probabilities, which is also motivated by his early criticism of total serialism (the variant of serial music in which all musical parameters are subject to the principle of series).
+
+In Germany, the Bonn phonetician Werner Meyer-Eppler (1913 - 1960), who died young, exerted a major influence on composers such as Herbert Eimert (1897-1972) and Karlheinz Stockhausen (* 1928). Meyer-Eppler was concerned with the fundamentals of information theory and its application to phonetics and speech synthesis. Although Karlheinz Stockhausen in principle did not use computers for composing, his thinking was strongly influenced by information theory and the formalization of musical processes. His main theoretical work "Wie die Zeit vergeht" (How Time Passes) deals with the phenomenon of musical time as a continuum from the frequency of a single tone to the large-scale form of opera. The "Electronic Study II", composed and realized in 1954, is still entirely in the tradition of total serialism. It is exemplary of a utopianism that strives to subject all musical parameters to the same laws - and at the same time fails to do so.
+
+A companion of Stockhausen in the late 1950s is Gottfried Michael Koenig (b. 1926), who worked at the Studio for Electronic Music in Cologne 1954- 64 and as a staff member and director of the Institute for Sonology in Utrecht 1964-86 (the institute was reestablished in The Hague in 1986). There he developed the computer programs Projekt 1 to 3 and SSP. The following explanation can be found on Koenig's homepage2:
+
+"The Sound Synthesis Program SSP was created soon after 1971, after the Institute of Sonology at the University of Utrecht (Holland) had received its own computer. It was intended to serve the experimental exploration of a concept at which electronic music produced in analog studios had found its limit: the representation of sound as a sequence of amplitudes in time. It seemed appealing to use for this purpose the procedures of aleatoric and group element selection tested in Project 1 and Project 2, in order to fill the area between stationary and noisy sounds. This approach does not follow an acoustic model (imitation of known sounds), but relies on empirically finding pre-unknown sounds by systematically permuting the elements of an initial position. Since the initial positions can be cataloged, it was assumed that the resulting sound structures would also be able to be systematically described."
+
+
 Popular approach in the 1950s to determine the information content of media. Its strict application to music is hardly comprehensible today.
 https://elearning.hfmt-hamburg.de/pluginfile.php/7166/mod_page/content/1/Hiller.png?time=1588358838687
 Measurement of information content of music according to Lejaren Hiller
@@ -76,7 +99,19 @@ Gesang der Jünglinge (1956, first combination of electronic sounds with sampled
 Kontakte (1960, mixed media: electronic sounds combined with acoustic instruments)
 
 Elektronische Studie II
-The first computer-generated scores
+
+### The Electronic Poem
+ Le Corbusier, 1887-1965 (Modulor); Iannis Xenakis (1922-2001); Edgard Varèse (1883-1965) "Poème électronique: Philips Pavilion."
+"Poème électronique" (electronic poem) is the first electronic-spatial environment that combines architecture, film, light and music to create an overall experience that fuses space and time. Under the direction of Le Corbusier, Iannis Xenakis designed the concept and geometry of the World's Fair building according to mathematical functions, while Edgard Varèse composed the mixed concrete and vocal music to accompany the dynamic light and image projections conceived by Le Corbusier. Varèse had long striven in his music for abstract, partly visually inspired concepts of form and spatial movement. For "Poème électronique," he used machine noises, transposed piano chords, filtered choral and soloist voices, and synthetic timbres, among other things. With the help of advanced technology provided by Philips, the sounds of the tape composition could be moved along complex trajectories in space.  "The Philips Pavilion presented a collage-like litany of 20th century man's dependence on electricity rather than daylight, on virtual perspectives rather than vistas of the earth." (Marc Treib, Space Calculated in Seconds, Princeton 1996, p. 3
+
+<img width="432" alt="image" src="https://user-images.githubusercontent.com/17442406/114434802-b60a7a00-9bc3-11eb-9943-55a6c10df0a7.png">
+
+https://e-pub.uni-weimar.de/opus4/frontdoor/deliver/index/docId/1268/file/kiyak_pdfa.pdf
+http://blog.fabric.ch/fabric/images/2541_1414669720_1.jpg
+
+"Poème électronique" (electronic poem) is the first electronic-spatial environment that combines architecture, film, light and music to create an overall experience that fuses space and time. Under the direction of Le Corbusier, Iannis Xenakis designed the concept and geometry of the World's Fair building according to mathematical functions, while Edgard Varèse composed the mixed concrete and vocal music to accompany the dynamic light and image projections conceived by Le Corbusier. Varèse had long striven in his music for abstract, partly visually inspired concepts of form and spatial movement. For "Poème électronique," he used machine noises, transposed piano chords, filtered choral and soloist voices, and synthetic timbres, among other things. With the help of advanced technology provided by Philips, the sounds of the tape composition could be moved along complex trajectories in space.  "The Philips Pavilion presented a collage-like litany of 20th century man's dependence on electricity rather than daylight, on virtual perspectives rather than vistas of the earth." (Marc Treib, Space Calculated in Seconds, Princeton 1996, p. 3
+
+## The first computer-generated scores
 1956: The first composition was the popular music song Push-button Bertha by Martin Klein and Douglas Bolitho.
 https://elearning.hfmt-hamburg.de/pluginfile.php/7169/mod_page/content/2/PushButtonBertha-1.jpg
 1957: Illiac Suite (fourth string quartet) by Lejaren Hiller (with Leonard Issacson)
@@ -93,8 +128,6 @@ Major theoretical work: Formalised Music: Thought and Mathematics in Composition
 Project 1 (1964) and Project 2 (1966) by Gottfried Michael Koenig (Institute of Sonology, University of Utrecht). Algorithmic composition.
 
 
-##Hermann Scherchen and the Gravesano Studio
-Famous conductor and pianist Hermann Scherchen founded one of the first centers for research in music in Gravesano, Switzerland. He also edited a journal called Gravesaner Blätter (https://elearning.hfmt-hamburg.de/pluginfile.php/8578/mod_page/content/2/00-Inhalt.pdf) which the some of the great minds of his time such as Xenakis and Meyer-Eppler have contributed to.  
 
 Max Mathews: The first computer-generated sounds
 https://5mag.net/features/max-mathews-inventor-digital-music/
@@ -109,24 +142,11 @@ This 1968 short shows some of the ways that Bell Laboratories scientists used co
 
 Bell Labs was responsible for a few computer graphics and music firsts: 
 
-1961: computer performs "Daisy Bell" with music programmed by Max Mathews and speech programmed by John Kelly and Carol Lockbaum. This was later the inspiration for the computer "HAL" singing the song in the movie 2001. Daisy Bell was also the nickname of one of Alexander Graham Bell's daughters. 
-
-1962: The first digital computer art was created at Bell Labs by A. Michael Noll. 
-
-1963: The first computer animated film was produced by Edward Zajac at Bell Labs. 
-
-1963: The first computer animation language, BEFLIX, was created by Ken Knowlton. 
-
-1966: first ASCII art was created by Ken Knowlton. 
-
-These scientist/artists worked on IBM 704 and 7094 computers:
-
-IBM 704 The computer these artists and scientists originally worked on in the 1960s had 192K of RAM, 6mb of memory on tape, cost $200 an hour to use and filled a whole room. 
-
-IBM 7094 The earliest computer-generated films, created using an IBM 7094 computer and Stromberg-Carlson 4020 microfilm recorder, cost approximately $500 per minute of output. The 709-series computers were transistorized, and a typical 7094 sold for $3,134,500 in the 1960s. 
-
-This film won the CINE Golden Eagle and is in the permanent collection at the Museum of Modern Art in NYC.  
-
+- 1961: computer performs "Daisy Bell" with music programmed by Max Mathews and speech programmed by John Kelly and Carol Lockbaum. This was later the inspiration for the computer "HAL" singing the song in the movie 2001. Daisy Bell was also the nickname of one of Alexander Graham Bell's daughters. 
+- 1962: The first digital computer art was created at Bell Labs by A. Michael Noll. 
+- 1963: The first computer animated film was produced by Edward Zajac at Bell Labs. 
+- 1963: The first computer animation language, BEFLIX, was created by Ken Knowlton. 
+- 1966: first ASCII art was created by Ken Knowlton. 
 
 John Cage
 1952 Williams Mix
@@ -150,24 +170,59 @@ https://youtu.be/c-H8V7x8GCY
 
 
 # EXPLORATORY PHASE
-John Pierce expressed frustration with the computer in 1965 in his article "Portrait of the Computer as a Young Artist":
+
+In 1965, John R. Pierce (1910-2002) expressed his reverence for (and frustration with) the computer as a musical instrument in "Portrait of the Computer as a Young Artist" with the following statement:
+
 "As a musical instrument, the computer has unlimited potentialities for uttering sound. It can, in fact, produce strings of numbers representing any conceivable or hearable sound... 
 Wonderful things would come out of that box if only we knew how to evoke them."
-
-Around the same time, the contemporary music world also felt disillusioned by serial and post-serial music (Theodor W. Adorno: Difficulties (1966))
-
-Portrait of the Machine as a Young Artist.pdf
-Article by John R. Pierce (1965)
-
-Click Pierce_JR_1965_Portrait_of_the_Machine_as_a_Young_Artist.pdf link to view the file.
 https://elearning.hfmt-hamburg.de/pluginfile.php/8562/mod_resource/content/1/Pierce_JR_1965_Portrait_of_the_Machine_as_a_Young_Artist.pdf
 
-Difficulties
-by Theodor W. Adorno
-Click Adorno-Difficulties.pdf link to view the file.
+Around the same time, a certain disenchantment with the prevailing serial method of composition also spread a feeling that Adorno summed up in his 1966 article "Difficulties": It seemed that something fundamental had been lost in most compositions of the time. 
 https://elearning.hfmt-hamburg.de/pluginfile.php/8563/mod_resource/content/1/Adorno-Difficulties.pdf
 
+Nevertheless, a return to old traditions seemed out of the question, so instead further efforts were to be made to explore the properties of musical and acoustic phenomena and the mechanisms of their perception. Consequently, at the beginning of the 1970s, interdisciplinary research centers were founded with the intention of having engineers, psychologists, computer scientists and composers work on joint projects. Of these centers, the "Center for Computer Research in Music and Acoustics" (CCRMA), founded in 1975 by the composer John Chowning and the computer scientist Julius O. Smith at Stanford University, and the Paris "Institut de Recherche et Coordination Acoustique/Musique" (IRCAM) are the most important.
+
+The foundation of IRCAM was decided by President Pompidou as early as 1970 on the initiative of Pierre Boulez (* 1926), who was also to become the institute's long-time director. After a planning phase lasting many years, it began operations in 1974. It is a historical fact that Boulez, who lived for a time in Baden-Baden in German "exile," had initially approached the physicist and Nobel Prize winner Werner Heisenberg with his idea of an interdisciplinary music research center. But Heisenberg, then director of the Munich Max Planck Institute for Physics and Astrophysics and an outstanding figure in German scientific life, had already decided in his youth against a career as a composer and approached Boulez's idea with disapproval. Thus, the opportunity arose to establish an institute in the center of Paris, excellently equipped both financially and in terms of personnel. Accordingly, the list of researchers and musicians who have spent some time at IRCAM is extremely impressive: Luciano Berio, Jean-Claude Risset, Kajia Saariaho, Jonathan Harvey, Roger Reynolds, David Wessel, Miller Puckette, Klarenz Barlow, York Höller, Alessando Viñao, George Benjamin, Tristan Murail, Gerard Grisey, Philippe Manoury, Isabel Mundry, Tod Machover and Marco Stroppa, to name but a few.
+
+Of the composers mentioned, Grisey (1948-98) and Murail (* 1947) stand out in particular as founders of the compositional technique known as "spectralism". Together with Roger Tessier and Michaël Levinas, they founded the ensemble L'Itineraire as early as 1973, which premiered numerous spectral compositions. The basis of spectral composition is the Fourier analysis of sounds and the transfer of the partials contained in the spectra to acoustic instruments.
+The realization of numerous compositions at IRCAM, for which - as for Boulez' "Répons" (1986) - new hardware was also developed, is symptomatic of the successful collaboration between musicians and scientists, but also of the increasing academization of computer music. In the 1990s, during Murail's work at IRCAM, essential aspects of spectral music were also formalized. Innovative software also dates from this period, provided to members of the IRCAM Forum for an annual membership fee or further developed as a commercial product (such as the Max/MSP programming environment from the California company Cycling '74). The three software packages of the forum are thematically divided into computer-aided composition (OpenMusic), sound design (AudioSculpt, Diphone. Modalys) and real-time (Max, Spat). Characteristic for Max/MSP and OpenMusic is their modular structure with the possibility to extend the repertoire of objects and libraries. 
+
+ <img width="385" alt="image" src="https://user-images.githubusercontent.com/17442406/114465408-6047c900-9be7-11eb-9806-04fa7b1f6c2d.png">
+
+The work of Klarenz Barlow (* 1945) is exemplary for the explorative phase of computer music, which represents a further development of the premises of the 50s and 60s; the composer is also a cognitive researcher, music theorist and software programmer in personal union. In this way, incidentally, he is close to the American composer James Tenney (b. 1934), who was involved in experiments at Bell Laboratories with Max Mathews in the early 1960s and later worked on cognitive and historical aspects of tuning and tonality. Barlow studied with Bernd Alois Zimmermann (1918-1970) in 1968-70 and the following two years with Karlheinz Stockhausen. He worked at various European studios, including IRCAM, where he realized his groundbreaking piano piece "Çogluotobüsisletmesi" (1978). In his book "Bus Journey to Parametron" (1980), interspersed with witty puns, Barlow describes in detail the music-theoretical premises that govern the composition of the 30-minute work. A plural understanding of music history characterizes Barlow's aesthetics, bringing him close to Umberto Eco's theory of postmodernism. Instead of the tabula rasa of serial composition, his thinking is characterized by allusions and an effort to formalize historical phenomena such as meter, tonality, and style, while bringing his theory in line with the cognitive research of a Roger Shepard. In an interview with Gisela Gronemeyer, for example, he says: "In Çogluotobüsisletmesi, I was immensely pleased to see that very many passages of music quite unintentionally resemble certain musical traditions of the world. There is Balinese music in it, Gregorian music, jazz in different variations. Also a bit of rock music in a certain place, and of course classical and romantic music, although I only wanted to capture one principle in the music. I wanted to write a really romantic piece, but I had no idea that my theory, my system would give me access to such styles".
+
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/17442406/114465745-d2b8a900-9be7-11eb-9d20-a7dfa84490a4.png">
+
+
+
+# The Age of the Research Centers
+## Hermann Scherchen and the Gravesano Studio
+Famous conductor and pianist Hermann Scherchen founded one of the first centers for research in music in Gravesano, Switzerland. He also edited a journal called Gravesaner Blätter (https://elearning.hfmt-hamburg.de/pluginfile.php/8578/mod_page/content/2/00-Inhalt.pdf) which the some of the great minds of his time such as Xenakis and Meyer-Eppler have contributed to.  
+
+## Bell Labs
+
+## IRCAM
+
+## CCRMA
+
+## And many others...
+
 # THE INTERACTIVE PHASE
+
+In the interactive phase, a paradigm shift is revealed, characterized by the blurring of identities and functions: the separation between composition and improvisation in live performance is abolished, just as the distinction between performer and audience is abolished in the case of installation. New terms emerge: Participatory music, net music, real-time composition, autopoiesis (Greek autos = self and poiein = to make, thus actually "making oneself"), streaming, autogenerative processes, etc. A new type of composer is emerging who, due to the general availability of affordable hardware and sophisticated software, is able to work intuitively and interactively without profound knowledge of music theory or computer science. The fact that this paradigm shift, which is also accompanied by social upheavals, was decades in the making will be shown in the following and discussed with some examples.
+The statements formulated in "Understanding Media" (1964) by Marshall McLuhan (1911-1980) about our world as a global village have become commonplace in intellectual discourse: "Today, after more than a century of electric (today one would rather say "electronic") technology, we have extended our central nervous system in a global embrace, abolishing both space and time as far as our planet is concerned4 ".
+In fact, it was not until 30 years later, with the proliferation of the hypertext-based World Wide Web and the associated expansion of the Internet, that the implications of this became generally noticeable. The decisive advantage of the Internet over traditional media is, on the one hand, the so-called back channel, which allows the recipient to participate in communication processes, and, on the other hand, its broad distribution, which makes it possible to turn even economically less potent users into global providers of information in the broadest sense.
+Composers who took up the memes of globalization and networking rather intuitively reacted with concepts that first used telephone circuits and later satellite technology to merge space and time, such as Bill Fontana, who began his first experiments in 1976. In Alvin Curran's "Crystal Psalms" (1988) and Larry Austin's "Canadian Coastlines: Canonic Fractals for Musicians and Computer Band" (1981), musicians were time-synchronized together during performances via satellite.
+In the San Francisco Bay Area, computer-enthusiastic composers got together at the end of the 1970s and organized the first concerts with networked computers in 1978, calling themselves "The League of Automatic Music Composers" from 1980. The group "The Hub" emerged from this formation in 1987 and included John Bischoff, Tim Perkis, Mark Trayle, Chris Brown, Scot Gresham-Lancaster, and Phil Stone.
+ Figure 8. members of The Hub pose with their controllers.
+While the possibilities of networked compositions were initially limited to local performances through the use of MIDI networks-where the technology originally developed for communication between musical instruments and computers, called Musical Instrument Digital Interface, or MIDI, was used to exchange data between computers-the 1990s saw the creation of broadband networking technology based on TCP/IP (Transmission Control Protocol/Internet Protocol), which was used to realize Web-based compositions beginning around 1996. One of the most notable composers to have used this medium in several pieces is Chris Brown (b. 1953), Hub member and professor at Mills College in Oakland. His ́Inventions ́ are pieces that explore the parameter of rhythm through very different means; "Invention #5" (2000) is a participatory composition in this regard, allowing players to log on to a server and enter into a dialogue with a stream of percussive sounds, while "Invention #7" is an interactive and local composition for piano, drums, DJ, and computer.
+
+In Austria, a forum for digital and interactive art was created in 1987 with the "Prix Ars Electronica" in Linz. Perhaps it is therefore no coincidence that the first European production of "Brain Opera" (1996) by MIT Media Lab professor Tod Machover (* 1953) was also shown in Vienna, and that its interactive installation found a permanent home in Vienna's Haus der Musik. The "Brain Opera" reflects like hardly any other work of the time the aspects of multimedia, interactive, participatory and networked music, which allows the audience to determine its course by means of so-called hyperinstruments.
+
+Quintet.net ....
+
+
+## The Age of the one (Wo)man Show
 Live Electronics
 Since the 1960s: 
 
