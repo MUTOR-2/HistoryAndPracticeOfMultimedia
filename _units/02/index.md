@@ -37,15 +37,15 @@ mathjax: true
 
 # Introduction
 
-
 Three phases since 1950:
 Speculative phase (1950-1970)
 Exploratory phase (1970-2000)
 Interactive (post-digital) phase (since 2000)
 
 # SPECULATIVE PHASE
-Development of cybernetics and information theory: v. Neumann, Szilárd
-
+## The precursors
+Bauhaus
+## Development of cybernetics and information theory: v. Neumann, Szilárd
 <div style="display: block; text-align: center; float: center">
 <iframe width="560" height="315" src="https://youtu.be/cdu16JAzgw8" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
@@ -53,6 +53,40 @@ picture-in-picture" allowfullscreen></iframe>
 </div>
 
 https://elearning.hfmt-hamburg.de/pluginfile.php/7165/mod_page/content/6/ENIAC.png
+https://elearning.hfmt-hamburg.de/pluginfile.php/7172/mod_resource/content/1/Norbert_Wiener_Cybernetics.pdf
+
+### Information Theory
+Popular approach in the 1950s to determine the information content of media. Its strict application to music is hardly comprehensible today.
+https://elearning.hfmt-hamburg.de/pluginfile.php/7166/mod_page/content/1/Hiller.png?time=1588358838687
+Measurement of information content of music according to Lejaren Hiller
+
+
+Serial music - Total Serialism
+Composition technique going back to Anton Webern, explored by Olivier Messiaen in his pieces "Mode de valeurs et d'intensités" (1949-50) and Cantéyodjayâ (1949) and brought to perfection by the young composers born on the 1920s (Stockhausen, Nono, Boulez). All musical parameters are subjected to the same principles of order.
+https://youtu.be/0xXSoogzRP4 
+
+
+The first purely electronic compositions: Karlheinz Stockhausen
+Born in 1928 near Cologne. One of the most important (the most important?) German composers of the post-war generation. Contributions to all musical genres: acoustic music, electronics, mixed forms. Early on, at the suggestion of Werner Meyer-Eppler https://en.wikipedia.org/wiki/Werner_Meyer-Eppler, occupied himself with information theory.
+
+Major works of the 50s:
+
+Elektronische Studie II (1954, one of the first purely electronic compositions)
+Gesang der Jünglinge (1956, first combination of electronic sounds with sampled sound; http://www.medienkunstnetz.de/works/gesang-der-juenglinge/audio/1/)
+Kontakte (1960, mixed media: electronic sounds combined with acoustic instruments)
+
+Elektronische Studie II
+The first computer-generated scores
+1956: The first composition was the popular music song Push-button Bertha by Martin Klein and Douglas Bolitho.
+https://elearning.hfmt-hamburg.de/pluginfile.php/7169/mod_page/content/2/PushButtonBertha-1.jpg
+1957: Illiac Suite (fourth string quartet) by Lejaren Hiller (with Leonard Issacson)
+https://elearning.hfmt-hamburg.de/pluginfile.php/7169/mod_page/content/2/The-first-algorithmic-computer-generated-composition-the-first-part-from-Illiac-Suite_W640.jpg
+https://youtu.be/pEhAiTenigU 
+
+1960s: 
+ST/n compositions by Iannis Xenakis
+ST/4 for string quartet; ST/48 for large orchestra
+
 
 See the [example unit]({{ site.baseurl }}/example-unit.html) for formatting
 guidelines. Remember, time doesn't exist
