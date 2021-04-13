@@ -64,8 +64,6 @@ The year 1945 marked a new beginning in the history of the Western world. Fascis
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/17442406/114518557-c6f8d100-9c3f-11eb-9b33-0f897643db97.png">
 {% include end-figure %}
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FZ3_(computer)&psig=AOvVaw0xnLpmasLQm9p_OXfvZWRq&ust=1618387545812000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjJjsjh-u8CFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/17442406/114518647-dd069180-9c3f-11eb-8301-d4169e085417.png)
-
 {% include begin-figure description="The Zuse Z3 computer" %}
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114518647-dd069180-9c3f-11eb-8301-d4169e085417.png">{% include end-figure %}
 
@@ -89,8 +87,8 @@ In the 1950s, information theory, as a very young field of science, raised numer
 ## Application of Information Theory to Music
 The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectures on information theory and computer music at the International Summer Courses for New Music in Darmstadt in 1963. His concept of musical information density was informed by statistics and the mathematical foundations of communication theory. Hiller's diagrams comparing the information speeds of selected compositions from Mozart to Hindemith (measured in bits per second) seem strange from the distance of 40 years, but they corresponded to a widespread way of thinking at that time.
 
-https://elearning.hfmt-hamburg.de/pluginfile.php/7166/mod_page/content/1/Hiller.png?time=1588358838687![image](https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png)
-Measurement of information content of music according to Lejaren Hiller
+{% include begin-figure description="Measurement of information content of select piece according to Lejaren Hiller" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png">{% include end-figure %}
 
 ### The first computer-generated scores
 1956: The first composition was the popular music song Push-button Bertha by Martin Klein and Douglas Bolitho.
