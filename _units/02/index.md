@@ -58,7 +58,7 @@ If now an attempt is made to present the history of multimedia in three phases, 
 
 ### Information Theory
 
-The year 1945 marked a new beginning in the history of the Western world. Fascism and nationalism have plunged almost the entire civilized world into a war of annihilation, to which the United States responded with an unparalleled rearmament. In the course of this mobilization, in addition to the atomic bomb, which helped to finally end the world war, the US Army Ordnance started to develop the ENIAC (Electronic Numerical Integrator And Computer), the first digital computer, in 1943. At the same time, Leo Szilárd (1898-1964), John von Neumann (1903-1957) and Norbert Wiener (1894-1964) laid the mathematical foundations of information theory. It was Wiener who invented the word "cybernetics" in 1947 as an umbrella term for the science of the "[communication and control in the animal and the machine()]". We should  note that the ENIAC, completed in late 1945, was by no means the first digital computer: The Z3 computer built by Conrad Zuse was finished four years ealier but never put to use. 
+The year 1945 marked a new beginning in the history of the Western world. Fascism and nationalism have plunged almost the entire civilized world into a war of annihilation, to which the United States responded with an unparalleled rearmament. In the course of this mobilization, in addition to the atomic bomb, which helped to finally end the world war, the US Army Ordnance started to develop the ENIAC (Electronic Numerical Integrator And Computer), the first digital computer, in 1943. At the same time, Leo Szilárd (1898-1964), John von Neumann (1903-1957) and Norbert Wiener (1894-1964) laid the mathematical foundations of information theory. It was Wiener who invented the word "cybernetics" in 1947 as an umbrella term for the science of the "[communication and control in the animal and the machine](https://github.com/MUTOR-2/HistoryAndPracticeOfMultimedia/raw/f3319d3b59e3f7e35a69178688a6ecc85a191d77/assets/other/Norbert_Wiener_Cybernetics.pdf)". We should  note that the ENIAC, completed in late 1945, was by no means the first digital computer: The Z3 computer built by Conrad Zuse was finished four years ealier but never put to use. 
 
 {% include begin-figure description="The cover of  Nobert Wiener's groundbreaking book Cybernetics: or the Control and Communication in the Animal and the Machine" %}
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/17442406/114518557-c6f8d100-9c3f-11eb-9b33-0f897643db97.png">
@@ -91,10 +91,8 @@ The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectu
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png">{% include end-figure %}
 
 ### The first computer-generated scores
-1956: The first composition was the popular music song Push-button Bertha by Martin Klein and Douglas Bolitho.
-https://elearning.hfmt-hamburg.de/pluginfile.php/7169/mod_page/content/2/PushButtonBertha-1.jpg
 
-Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer.
+Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer. 
 
 {% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png">{% include end-figure %}
@@ -104,35 +102,38 @@ Lejaren Hiller (together with Leonard Issacson) is also credited for having crea
 </div>
 {% include end-figure %}
 
-Iannis Xenakis (1922-2001), who for a while also worked as an architect under Le Corbusier, was certainly one of the most celebrated computer composers. He drew his inspiration, ancient Greek mythology aside, from complex geometric figures and statistical procedures known as stochastics. In "Formalized Music: Thought and Mathematics in Composition" (1971), in some ways the counterpart to Messiaen's "Technique de mon language musical," Xenakis describes the mathematical prerequisites for his work, his thinking in terms of densities and probabilities, which is also motivated by his early criticism of total serialism as am example of an utopianism striving to subject all musical parameters to the same laws - and at the same time failing to do since the cognitive processes operating on the outcomes impose their own laws which may run counter to its original tenets.
+Yet, the first piece of music ever composed by a computer in 1956 was the melody for the popular music song "Push-button Bertha" by Martin Klein and Douglas Bolitho (albeit with a very human harmonization).
+{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png">{% include end-figure %}
+
+Iannis Xenakis (1922-2001), who for a while also worked as an architect under Le Corbusier, was certainly one of the most celebrated computer composers. He drew his inspiration, ancient Greek mythology aside, from complex geometric figures and statistical procedures known as stochastics. In "Formalized Music: Thought and Mathematics in Composition" (1971), in some ways the counterpart to Messiaen's "Technique de mon language musical," Xenakis describes the mathematical prerequisites for his work, his thinking in terms of densities and probabilities, which is also motivated by his early criticism of total serialism as am example of an utopianism striving to subject all musical parameters to the same laws - and at the same time failing to do since the cognitive processes operating on the outcomes impose their own laws which may run counter to its original tenets. His major theoretical work "Formalised Music: Thought and Mathematics in Composition" was published in 1971.
 
 {% include begin-figure description="Iannis Xenakis" %}
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114610638-706faf00-9ca0-11eb-840e-14cb33b26395.png
 ">{% include end-figure %}
 
+Xekakis' ST/n compositions such as [ST/4](https://youtu.be/BWltre1ddS4) for string quartet and [ST/48](https://youtu.be/71xLJ1HoNxc ) for large orchestra represent his effort to use computers to calculate stochastic processes and to transcribe them into music. 
+
 ## Xenakis: Formalised Music and Multimedia
- Le Corbusier, 1887-1965 (Modulor); Iannis Xenakis (1922-2001); Edgard Varèse (1883-1965) "Poème électronique: Philips Pavilion."
-"Poème électronique" (electronic poem) is the first electronic-spatial environment that combines architecture, film, light and music to create an overall experience that fuses space and time. Under the direction of Le Corbusier, Iannis Xenakis designed the concept and geometry of the World's Fair building according to mathematical functions, while Edgard Varèse composed the mixed concrete and vocal music to accompany the dynamic light and image projections conceived by Le Corbusier. Varèse had long striven in his music for abstract, partly visually inspired concepts of form and spatial movement. For "Poème électronique," he used machine noises, transposed piano chords, filtered choral and soloist voices, and synthetic timbres, among other things. With the help of advanced technology provided by Philips, the sounds of the tape composition could be moved along complex trajectories in space. "The Philips Pavilion presented a collage-like litany of 20th century man's dependence on electricity rather than daylight, on virtual perspectives rather than vistas of the earth." (Marc Treib, Space Calculated in Seconds, Princeton 1996, p. 3
+In 1958, Xenakis contributed to a large scale project, The Poème électronique shown at the Philips Pavilion on occasion of the World Expo in Brussels. His were the elaborate design of the building, a 3D structure called a hyperbolic paraboloid and also a short musical sequence with granular sounds (named Concret PH). His mentor Le Corbusier who was credited for the architecture (!) contributed the art work while Edgard Varèse (1883-1965) composed the majority of the sounds. 
+"Poème électronique" (electronic poem) is the first electronic-spatial environment that combines architecture, film, light and music to create an overall experience that fuses space and time. Under the direction of Le Corbusier, Iannis Xenakis designed the concept and geometry of the World's Fair building according to mathematical functions, while Edgard Varèse composed the mixed concrete and vocal music to accompany the dynamic light and image projections conceived by Le Corbusier. Varèse had long striven in his music for abstract, partly visually inspired concepts of form and spatial movement. For "Poème électronique," he used machine noises, transposed piano chords, filtered choral and soloist voices, and synthetic timbres, among other things. With the help of advanced technology provided by Philips, the sounds of the tape composition could be moved along complex trajectories in space. "The Philips Pavilion presented a collage-like litany of 20th century man's dependence on electricity rather than daylight, on virtual perspectives rather than vistas of the earth." (Marc Treib, Space Calculated in Seconds, Princeton 1996, p. 3)
 
+{% include begin-figure description="Hand-colored postcard of the Philips Pavilion" %}
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/17442406/114434802-b60a7a00-9bc3-11eb-9943-55a6c10df0a7.png">
+{% include end-figure %}
 
-https://e-pub.uni-weimar.de/opus4/frontdoor/deliver/index/docId/1268/file/kiyak_pdfa.pdf
-http://blog.fabric.ch/fabric/images/2541_1414669720_1.jpg
-
-1960s: 
-ST/n compositions by Iannis Xenakis
-ST/4 for string quartet; ST/48 for large orchestra
-https://youtu.be/BWltre1ddS4 
-https://youtu.be/71xLJ1HoNxc 
-
-Major theoretical work: Formalised Music: Thought and Mathematics in Composition (1971).
+[Describing the Ineffable: Le Corbusier, Le Poème Electronique and Montage by Açalya Kiyak](https://e-pub.uni-weimar.de/opus4/frontdoor/deliver/index/docId/1268/file/kiyak_pdfa.)
 
 ## How Time Passes: Stockhausen
-In Germany, the phonetician Werner Meyer-Eppler https://en.wikipedia.org/wiki/Werner_Meyer-Eppler (1913 - 1960) exerted a major influence on composers such as Herbert Eimert (1897-1972) and Karlheinz Stockhausen (1928 - 2007). Meyer-Eppler was concerned with the fundamentals of information theory and its application to phonetics and speech synthesis. Although Karlheinz Stockhausen in principle did not use computers for composing, his thinking was strongly influenced by information theory and the formalization of musical processes. His main theoretical work "Wie die Zeit vergeht" (How Time Passes) deals with the phenomenon of musical time as a continuum from the frequency of a single tone to the large-scale form of opera. The "Elektronische Studie II", composed and realized in 1954, is still entirely in the tradition of total serialism. 
+In Germany, the phonetician Werner Meyer-Eppler https://en.wikipedia.org/wiki/Werner_Meyer-Eppler (1913 - 1960) exerted a major influence on composers such as Herbert Eimert (1897-1972) and Karlheinz Stockhausen (1928 - 2007). Meyer-Eppler was concerned with the fundamentals of information theory and its application to phonetics and speech synthesis. Although Karlheinz Stockhausen in principle did not use computers for composing, his thinking was strongly influenced by information theory and the formalization of musical processes. His main theoretical work "Wie die Zeit vergeht" (How Time Passes) deals with the phenomenon of musical time as a continuum from the frequency of a single tone to the large-scale form of opera. The "Elektronische Studie II", composed and realized in 1954, is still entirely in the tradition of total serialism. A real-time realization by the author (created in 2000) of the unit is included in the multimedia programming environment Max.
 
-Other electronic and mixed media works from the 1950s.
-Gesang der Jünglinge (1956, first combination of electronic sounds with sampled sound; http://www.medienkunstnetz.de/works/gesang-der-juenglinge/audio/1/)
-Kontakte (1960, mixed media: electronic sounds combined with acoustic instruments) as well as ...
+{% include begin-figure description="Elektronische Studie II by Karlheinz Stockhausen in a realization by Georg Hajdu" %}
+<div style="display: block; text-align: center; float: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_qi4hgT_d0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% include end-figure %}
+
+Other notable electronic and mixed media works by Stockhausen from the 1950s include Gesang der Jünglinge (1956, first combination of electronic sounds with sampled sound; http://www.medienkunstnetz.de/works/gesang-der-juenglinge/audio/1/) and Kontakte (1960, mixed media: electronic sounds combined with acoustic instruments). The later composition also served as the musical basis for a Fluxus piece called Originale (see unit 1).
 
 ## Gottfried Michael Koenig
 A companion of Stockhausen in the late 1950s is Gottfried Michael Koenig (b. 1926), who worked at the Studio for Electronic Music in Cologne 1954-64 and as a staff member and director of the Institute for Sonology in Utrecht 1964-86 (the institute was reestablished in The Hague in 1986). There he developed the computer programs Projekt 1 to 3 and SSP. The following explanation can be found on Koenig's homepage. It is exemplary for the kind of thinking prevelant at the time:
@@ -151,14 +152,6 @@ https://opinionator.blogs.nytimes.com/2011/06/08/the-first-computer-musician/
 https://youtu.be/_iiQtdXMnBg 
  
 This 1968 short shows some of the ways that Bell Laboratories scientists used computers in communications research. Contains sequences of computer-generated movies, photographs, music and speech. The entire score and main title and credits of the film were produced on a computer - which seems like nothing today, as every film and video in modern production makes its way through a machine - but at the time this was radically early for computer graphics and music. 
-
-Bell Labs was responsible for a few computer graphics and music firsts: 
-
-- 1961: computer performs "Daisy Bell" with music programmed by Max Mathews and speech programmed by John Kelly and Carol Lockbaum. This was later the inspiration for the computer "HAL" singing the song in the movie 2001. Daisy Bell was also the nickname of one of Alexander Graham Bell's daughters. 
-- 1962: The first digital computer art was created at Bell Labs by A. Michael Noll. 
-- 1963: The first computer animated film was produced by Edward Zajac at Bell Labs. 
-- 1963: The first computer animation language, BEFLIX, was created by Ken Knowlton. 
-- 1966: first ASCII art was created by Ken Knowlton. 
 
 ## John Cage
 1952 Williams Mix
@@ -196,7 +189,14 @@ Nevertheless, a return to old traditions seemed out of the question, so instead 
 The first idea of a center dedicated to the research of music and multimedia goes back to conductor and pianist Hermann Scherchen who founded a studio Gravesano, Switzerland. He also edited a journal called Gravesaner Blätter (https://elearning.hfmt-hamburg.de/pluginfile.php/8578/mod_page/content/2/00-Inhalt.pdf) to which between 1955 and 1966 some of the great minds of his time such as Boulez, Pierre Schaeffer, Xenakis, Moles, Trautwein, Le Corbusier, Adorno, Meyer-Eppler, Tenney as well as Mathews and Pierce have contributed to.  
 
 ## Bell Labs
-Pierce (1910-2002), an American engineer and author, wrote on electronics and information theory, and developed jointly the concept of pulse-code modulation (PCM) with his Bell Labs colleagues Barney Oliver and Claude Shannon. He supervised the Bell Labs team which built the first transistor and gave it its name. He was known to give his co-workers, Max Mathews among them, freedom to pursue odd projects without the explicit goal to create products for commercial exploitation. Bell Labs had a position for a "research composer in residence" which gave James Tenney and Jean-Claude Risset (1938-2016), a French physicist, pianist and composer, the opportunity to pursue their research interests. Jean Claude Risset later became the head of the Computer Department at IRCAM (1975-1979) and composed his the first Duet for one pianist (1989) at the MIT Media Lab.
+Pierce (1910-2002), an American engineer and author, wrote on electronics and information theory, and developed jointly the concept of pulse-code modulation (PCM) with his Bell Labs colleagues Barney Oliver and Claude Shannon. He supervised the Bell Labs team which built the first transistor and gave it its name. He was known to give his co-workers, Max Mathews among them, freedom to pursue odd projects without the explicit goal to create products for commercial exploitation. Bell Labs had a position for a "research composer in residence" which gave James Tenney and Jean-Claude Risset (1938-2016), a French physicist, pianist and composer, the opportunity to pursue their research interests. Jean Claude Risset later became the head of the Computer Department at IRCAM (1975-1979) and composed his the first Duet for one pianist (1989) at the MIT Media Lab.Bell Labs was responsible for a few computer graphics and music firsts: 
+
+The Bell Labs were noted for the following accomplishments in the area of computer art:
+- 1961: computer performs "Daisy Bell" with music programmed by Max Mathews and speech programmed by John Kelly and Carol Lockbaum. This was later the inspiration for the computer "HAL" singing the song in the movie 2001. Daisy Bell was also the nickname of one of Alexander Graham Bell's daughters. 
+- 1962: The first digital computer art was created at Bell Labs by A. Michael Noll. 
+- 1963: The first computer animated film was produced by Edward Zajac at Bell Labs. 
+- 1963: The first computer animation language, BEFLIX, was created by Ken Knowlton. 
+- 1966: first ASCII art was created by Ken Knowlton. 
 
 ## IRCAM
 The foundation of IRCAM was decided by President Pompidou as early as 1970 on the initiative of Pierre Boulez (1926-2016), who was also to become the institute's long-time director. After a planning phase lasting many years, it began operations in 1974. It is a historical fact that Boulez, who lived for a time in Baden-Baden in German "exile," had initially approached the physicist and Nobel Prize winner Werner Heisenberg with his idea of an interdisciplinary music research center. But Heisenberg, then director of the Munich Max Planck Institute for Physics and Astrophysics and an outstanding figure in German scientific life, had already decided in his youth against a career as a composer and approached Boulez's idea with "uncertainty". Thus, the opportunity arose to establish an institute in the center of Paris, excellently equipped both financially and in terms of personnel. Accordingly, the list of researchers and musicians who have spent some time at IRCAM is extremely impressive. The realization of numerous compositions at IRCAM, for which - as for Boulez' "Répons" (1986) - new software and hardware was developed, is symptomatic of the successful collaboration between musicians and scientists, but also of the increasing academization of computer music and multimedia. 
