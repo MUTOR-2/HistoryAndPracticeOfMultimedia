@@ -101,7 +101,7 @@ Lejaren Hiller (together with Leonard Issacson) is also credited for having crea
 {% include end-figure %}
 
 Yet, the first piece of music ever composed by a computer in 1956 was the melody for the popular music song "Push-button Bertha" by Martin Klein and Douglas Bolitho (albeit with a very human harmonization).
-{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
+{% include begin-figure description="Push-button Bertha" by Martin Klein and Douglas Bolitho" %}
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png">{% include end-figure %}
 
 Iannis Xenakis (1922-2001), who for a while also worked as an architect under Le Corbusier, was certainly one of the most celebrated computer composers. He drew his inspiration, ancient Greek mythology aside, from complex geometric figures and statistical procedures known as stochastics. In "Formalized Music: Thought and Mathematics in Composition" published in 1971 and in some ways the counterpart to Messiaen's "Technique de mon language musical," Xenakis describes the mathematical prerequisites for his work, his thinking in terms of densities and probabilities, which is also motivated by his early criticism of total serialism as am example of an utopianism striving to subject all musical parameters to the same laws - and at the same time failing to do since the cognitive processes operating on the outcomes impose their own laws which may run counter to its original tenets. 
