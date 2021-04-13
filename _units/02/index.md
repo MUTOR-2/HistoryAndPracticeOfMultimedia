@@ -48,15 +48,13 @@ The interaction between technology and the arts does not have to be a direct one
 If now an attempt is made to present the history of multimedia in three phases, it is also important to note that there are of course smooth transitions and overlaps. Although, for example, the beginning of interactive music is given as the year 2000, one should be aware of the fact that the origins of interactivity go back to the first beginnings of computer music and that important interactive pieces, for example those by Michel Waisvisz were  realized as early as the 1980s.
 
 # SPECULATIVE PHASE
-## The precursors
-Bauhaus
-## Development of cybernetics and information theory: v. Neumann, Szilárd
+## Development of cybernetics and information theory: Wiener, v. Neumann and Szilárd
+
 <div style="display: block; text-align: center; float: center">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=QJWDJvbea0M" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
 picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 
 ### Information Theory
