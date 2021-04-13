@@ -66,9 +66,16 @@ The year 1945 marked a new beginning in the history of the Western world. Fascis
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FZ3_(computer)&psig=AOvVaw0xnLpmasLQm9p_OXfvZWRq&ust=1618387545812000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjJjsjh-u8CFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/17442406/114518647-dd069180-9c3f-11eb-8301-d4169e085417.png)
 
+{% include begin-figure description="The Zuse Z3 computer" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114518647-dd069180-9c3f-11eb-8301-d4169e085417.png">{% include end-figure %}
+
+{% comment %} https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FZ3_(computer)&psig=AOvVaw0xnLpmasLQm9p_OXfvZWRq&ust=1618387545812000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjJjsjh-u8CFQAAAAAdAAAAABAD
+{% endcomment %}
+
 The year 1945 marked a new beginning in the history of the Western world. Fascism and nationalism have plunged almost the entire civilized world into a war of annihilation, to which the United States responded with an unparalleled rearmament. In the course of this mobilization, in addition to the atomic bomb, which helped to finally end the world war, the US Army Ordnance started to develop the ENIAC (Electronic Numerical Integrator And Computer), the first digital computer, in 1943. At the same time, Leo Szilárd (1898-1964), John von Neumann (1903-1957) and Norbert Wiener (1894-1964) laid the mathematical foundations of information theory. It was Wiener who invented the word "cybernetics" in 1947 as an umbrella term for the science of "communication and control in the animal and the machine". We should  note that the ENIAC, completed in late 1945, was by no means the first digital computer: The Z3 computer built by Conrad Zuse was finished four years ealier but never put to use. 
 
-https://elearning.hfmt-hamburg.de/pluginfile.php/7165/mod_page/content/6/ENIAC.png![image](https://user-images.githubusercontent.com/17442406/114517899-11c61900-9c3f-11eb-93c1-4a0805a584b0.png)
+{% include begin-figure description="The ENIAC computer" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114517899-11c61900-9c3f-11eb-93c1-4a0805a584b0.png">{% include end-figure %}
 
 Parallel to the spread of cybernetics in the exact sciences, principles of quantifiable entities increasingly determined artistic development. In 1948, Swiss architect and painter Le Corbusier published his first draft of the Modulor, an anthropometric scale of proportions based on the Golden Mean and in 1947 the mathematician and composer Milton Babbitt wrote Three Compositions for Piano considered the first example of total serialism.  In 1949, Olivier Messiaen composed the piano pieces "Mode de valeurs et d'intensités" "Cantéyodjayâ" influenced by Anton Webern, whose music laid the ground for this musical direction — a direction that was eventually taken up and further developed by the young composers of the early Darmstadt School (Pierre Boulez, Luigi Nono, Karlheinz Stockhausen, and others). 
 
