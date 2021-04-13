@@ -38,7 +38,11 @@ mathjax: true
 
 
 # Introduction
-
+{% include begin-figure description="Max example: Spectrum and Sonogram" %}
+<div style="display: block; text-align: center; float: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VqR_0Lt3xbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% include end-figure %}
 Multimedia can be conceptually understood as a co-evolution of artistic expressions and computers, shaped by memes that have dominated our thinking since World War II. Among these are the axioms of information theory or cybernetics, which since their beginnings in the early 1940s have spread rapidly into seemingly unrelated fields such as literature, the visual arts, and music. It comes as no surprise that both cyberneticists have sought to apply their principles to the arts and artists have longed to use computers to formalize creative processes. In the process, this co-evolution has gone through three phases, which we could call speculative (1950-70), exploratory (1970-2000), and interactive (since 2000) phases of multimedia. Particularly in the transition to the last phase, we observe a paradigm shift that also goes hand in hand with a changing role of the arts and media in the globalized world. Some also refer to it as the Postdigital.
 
 One of the main achievements of gender studies is the recognition that the history of the arts (and particularly that of music) is a construct to which, depending on the perspective of the observer, alternative histories are conceivable. The same holds when attempting to provide a historical overview of the inspiration that computers have had on artists. Apart from the fact that alternative understandings of this history exist, justice cannot be done here in this chapter to all the protagonists who have contributed significantly to this subject, and it is due to the nature of this presentation that a primary focus will be laid on music.
