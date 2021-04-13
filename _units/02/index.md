@@ -52,7 +52,7 @@ If now an attempt is made to present the history of multimedia in three phases, 
 
 {% include begin-figure description="Max example: Spectrum and Sonogram" %}
 <div style="display: block; text-align: center; float: center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QJWDJvbea0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnyc/#file=/audio/json/403356/&share=1"></iframe>
 </div>
 {% include end-figure %}
 
