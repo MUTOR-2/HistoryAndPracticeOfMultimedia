@@ -85,7 +85,7 @@ In the 1950s, information theory, as a very young field of science, raised numer
 ## Application of Information Theory to Music
 The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectures on information theory and computer music at the International Summer Courses for New Music in Darmstadt in 1963. His concept of musical information density was informed by statistics and the mathematical foundations of communication theory. Hiller's diagrams comparing the information speeds of selected compositions from Mozart to Hindemith (measured in bits per second) seem strange from the distance of 40 years, but they corresponded to a widespread way of thinking at that time.
 
-{% include begin-figure description="Measurement of information content of select piece according to Lejaren Hiller" %}
+{% include begin-figure description="Measurement of information content of select pieces according to Lejaren Hiller" %}
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png">{% include end-figure %}
 
 ### The first computer-generated scores
