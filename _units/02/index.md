@@ -50,12 +50,13 @@ If now an attempt is made to present the history of multimedia in three phases, 
 # SPECULATIVE PHASE
 ## Development of cybernetics and information theory: Wiener, v. Neumann and Szilárd
 
+<body>
 <div style="display: block; text-align: center; float: center">
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=QJWDJvbea0M" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
 picture-in-picture" allowfullscreen></iframe>
 </div>
-
+</body>
 
 ### Information Theory
 
@@ -76,17 +77,18 @@ In the 1950s, information theory, as a very young field of science, raised numer
 
 The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectures on information theory and computer music at the International Summer Courses for New Music in Darmstadt in 1963. His concept of musical information density was informed by statistics and the mathematical foundations of communication theory. Hiller's diagrams comparing the information speeds of selected compositions from Mozart to Hindemith (measured in bits per second) seem strange from the distance of 40 years, but they corresponded to a widespread way of thinking at that time.
 
-Iannis Xenakis (1922-2001), who also worked for a time as an architect under Le Corbusier, was certainly the most publicly celebrated computer composer. He drew his inspiration, along with ancient Greek mythology, from complex geometric figures and statistical procedures known as stochastics. In "Formalized Music: Thought and Mathematics in Composition" (1971), in some ways the counterpart to Messiaen's "Technique de mon language musical," Xenakis describes the mathematical prerequisites for his work, his thinking in terms of densities and probabilities, which is also motivated by his early criticism of total serialism (the variant of serial music in which all musical parameters are subject to the principle of series).
+Iannis Xenakis (1922-2001), who for a while also worked as an architect under Le Corbusier, was certainly one of the most celebrated computer composers. He drew his inspiration, ancient Greek mythology aside, from complex geometric figures and statistical procedures known as stochastics. In "Formalized Music: Thought and Mathematics in Composition" (1971), in some ways the counterpart to Messiaen's "Technique de mon language musical," Xenakis describes the mathematical prerequisites for his work, his thinking in terms of densities and probabilities, which is also motivated by his early criticism of total serialism.
 
-In Germany, the Bonn phonetician Werner Meyer-Eppler (1913 - 1960), who died young, exerted a major influence on composers such as Herbert Eimert (1897-1972) and Karlheinz Stockhausen (* 1928). Meyer-Eppler was concerned with the fundamentals of information theory and its application to phonetics and speech synthesis. Although Karlheinz Stockhausen in principle did not use computers for composing, his thinking was strongly influenced by information theory and the formalization of musical processes. His main theoretical work "Wie die Zeit vergeht" (How Time Passes) deals with the phenomenon of musical time as a continuum from the frequency of a single tone to the large-scale form of opera. The "Electronic Study II", composed and realized in 1954, is still entirely in the tradition of total serialism. It is exemplary of a utopianism that strives to subject all musical parameters to the same laws - and at the same time fails to do so.
+In Germany, the phonetician Werner Meyer-Eppler (1913 - 1960) exerted a major influence on composers such as Herbert Eimert (1897-1972) and Karlheinz Stockhausen (1928 - 2007). Meyer-Eppler was concerned with the fundamentals of information theory and its application to phonetics and speech synthesis. Although Karlheinz Stockhausen in principle did not use computers for composing, his thinking was strongly influenced by information theory and the formalization of musical processes. His main theoretical work "Wie die Zeit vergeht" (How Time Passes) deals with the phenomenon of musical time as a continuum from the frequency of a single tone to the large-scale form of opera. The "Electronic Study II", composed and realized in 1954, is still entirely in the tradition of total serialism. It is exemplary of a utopianism that strives to subject all musical parameters to the same laws - and at the same time fails to do since the cognitive processes operating on the outcomes impose their own laws which may run counter to the tenets of total serialism.
 
-A companion of Stockhausen in the late 1950s is Gottfried Michael Koenig (b. 1926), who worked at the Studio for Electronic Music in Cologne 1954- 64 and as a staff member and director of the Institute for Sonology in Utrecht 1964-86 (the institute was reestablished in The Hague in 1986). There he developed the computer programs Projekt 1 to 3 and SSP. The following explanation can be found on Koenig's homepage2:
+A companion of Stockhausen in the late 1950s is Gottfried Michael Koenig (b. 1926), who worked at the Studio for Electronic Music in Cologne 1954-64 and as a staff member and director of the Institute for Sonology in Utrecht 1964-86 (the institute was reestablished in The Hague in 1986). There he developed the computer programs Projekt 1 to 3 and SSP. The following explanation can be found on Koenig's homepage. It is exemplary for the kind of thinking prevelant at the time:
 
-"The Sound Synthesis Program SSP was created soon after 1971, after the Institute of Sonology at the University of Utrecht (Holland) had received its own computer. It was intended to serve the experimental exploration of a concept at which electronic music produced in analog studios had found its limit: the representation of sound as a sequence of amplitudes in time. It seemed appealing to use for this purpose the procedures of aleatoric and group element selection tested in Project 1 and Project 2, in order to fill the area between stationary and noisy sounds. This approach does not follow an acoustic model (imitation of known sounds), but relies on empirically finding pre-unknown sounds by systematically permuting the elements of an initial position. Since the initial positions can be cataloged, it was assumed that the resulting sound structures would also be able to be systematically described."
+"The SSP Sound Synthesis Program was written shortly after the Institute of Sonology at Utrecht University obtained its own computer, in 1971. It was designed to aid the experimental exploration of a concept that exceeded the possibilities of electronic music produced in analog studios: the representation of sound as a sequence of amplitudes in time. It seemed an attractive proposition to make use of the methods of aleatoric and groupwise selection of elements employed in “Project 1” and “Project 2” for the purpose of filling the space between stationary and noise-like sounds. This approach is not based on an acoustic model (on imitating familiar sounds), but must rely on the empirical finding of previously unknown sounds by systematically permutating the elements of an initial situation. Since the initial positions can be catalogued, the assumption was that a systematic description of the resulting sound would also be feasible."
+http://koenigproject.nl/ssp/
 
 
-Popular approach in the 1950s to determine the information content of media. Its strict application to music is hardly comprehensible today.
-https://elearning.hfmt-hamburg.de/pluginfile.php/7166/mod_page/content/1/Hiller.png?time=1588358838687
+https://elearning.hfmt-hamburg.de/pluginfile.php/7166/mod_page/content/1/Hiller.png?time=1588358838687![image](https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png)
+
 Measurement of information content of music according to Lejaren Hiller
 
 
