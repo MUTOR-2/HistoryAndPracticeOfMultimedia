@@ -50,7 +50,7 @@ If now an attempt is made to present the history of multimedia in three phases, 
 # SPECULATIVE PHASE
 ## Development of cybernetics and information theory: Wiener, v. Neumann and Szilárd
 
-{% include begin-figure description="Max example: Spectrum and Sonogram" %}
+{% include begin-figure description="Nobert Wiener: Men, machines, and the world about them" %}
 <div style="display: block; text-align: center; float: center">
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnyc/#file=/audio/json/403356/&share=1"></iframe>
 </div>
