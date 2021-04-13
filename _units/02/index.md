@@ -60,7 +60,7 @@ If now an attempt is made to present the history of multimedia in three phases, 
 
 The year 1945 marked a new beginning in the history of the Western world. Fascism and nationalism have plunged almost the entire civilized world into a war of annihilation, to which the United States responded with an unparalleled rearmament. In the course of this mobilization, in addition to the atomic bomb, which helped to finally end the world war, the US Army Ordnance started to develop the ENIAC (Electronic Numerical Integrator And Computer), the first digital computer, in 1943. At the same time, Leo Szilárd (1898-1964), John von Neumann (1903-1957) and Norbert Wiener (1894-1964) laid the mathematical foundations of information theory. It was Wiener who invented the word "cybernetics" in 1947 as an umbrella term for the science of "communication and control in the animal and the machine". We should  note that the ENIAC, completed in late 1945, was by no means the first digital computer: The Z3 computer built by Conrad Zuse was finished four years ealier but never put to use. 
 
-<img width="597" alt="image" src="https://user-images.githubusercontent.com/17442406/114518557-c6f8d100-9c3f-11eb-9b33-0f897643db97.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/17442406/114518557-c6f8d100-9c3f-11eb-9b33-0f897643db97.png">
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FZ3_(computer)&psig=AOvVaw0xnLpmasLQm9p_OXfvZWRq&ust=1618387545812000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjJjsjh-u8CFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/17442406/114518647-dd069180-9c3f-11eb-8301-d4169e085417.png)
 
