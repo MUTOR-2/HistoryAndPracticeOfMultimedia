@@ -52,13 +52,12 @@ If now an attempt is made to present the history of multimedia in three phases, 
 Bauhaus
 ## Development of cybernetics and information theory: v. Neumann, Szilárd
 <div style="display: block; text-align: center; float: center">
-<iframe width="560" height="315" src="https://youtu.be/cdu16JAzgw8" 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QJWDJvbea0M" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
 picture-in-picture" allowfullscreen></iframe>
 </div>
 
-https://elearning.hfmt-hamburg.de/pluginfile.php/7165/mod_page/content/6/ENIAC.png
-https://elearning.hfmt-hamburg.de/pluginfile.php/7172/mod_resource/content/1/Norbert_Wiener_Cybernetics.pdf
+
 
 ### Information Theory
 
