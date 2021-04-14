@@ -48,15 +48,15 @@ If now an attempt is made to present the history of multimedia in three stages, 
 # SPECULATIVE STAGE
 ## Development of cybernetics and information theory: Norbert Wiener
 
+### Information Theory
+
+The year 1945 marked a new beginning in the history of the Western world. Fascism and nationalism have plunged almost the entire civilized world into a war of annihilation, to which the United States responded with an unparalleled rearmament. In the course of this mobilization, in addition to the atomic bomb, which helped to finally end the world war, the US Army Ordnance started to develop the ENIAC (Electronic Numerical Integrator And Computer) in 1943. At the same time, Leo Szilárd (1898-1964), John von Neumann (1903-1957) and Norbert Wiener (1894-1964) laid the mathematical foundations of information theory. It was Wiener who invented the word "cybernetics" in 1947 as an umbrella term for the science of the "[communication and control in the animal and the machine](https://github.com/MUTOR-2/HistoryAndPracticeOfMultimedia/raw/f3319d3b59e3f7e35a69178688a6ecc85a191d77/assets/other/Norbert_Wiener_Cybernetics.pdf)". 
+
 {% include begin-figure description="Nobert Wiener: Men, machines, and the world about them" %}
 <div style="display: block; text-align: center; float: center">
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnyc/#file=/audio/json/403356/&share=1"></iframe>
 </div>
 {% include end-figure %}
-
-### Information Theory
-
-The year 1945 marked a new beginning in the history of the Western world. Fascism and nationalism have plunged almost the entire civilized world into a war of annihilation, to which the United States responded with an unparalleled rearmament. In the course of this mobilization, in addition to the atomic bomb, which helped to finally end the world war, the US Army Ordnance started to develop the ENIAC (Electronic Numerical Integrator And Computer) in 1943. At the same time, Leo Szilárd (1898-1964), John von Neumann (1903-1957) and Norbert Wiener (1894-1964) laid the mathematical foundations of information theory. It was Wiener who invented the word "cybernetics" in 1947 as an umbrella term for the science of the "[communication and control in the animal and the machine](https://github.com/MUTOR-2/HistoryAndPracticeOfMultimedia/raw/f3319d3b59e3f7e35a69178688a6ecc85a191d77/assets/other/Norbert_Wiener_Cybernetics.pdf)". 
 
 {% include begin-figure description="The cover of  Nobert Wiener's groundbreaking book Cybernetics: or the Control and Communication in the Animal and the Machine" %}
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/17442406/114518557-c6f8d100-9c3f-11eb-9b33-0f897643db97.png">
