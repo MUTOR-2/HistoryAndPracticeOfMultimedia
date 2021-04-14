@@ -113,7 +113,7 @@ Cage's first composition for tape  pushes the limits of the medium. While fully 
 
 The only realization of this score until 2012 is by Cage himself. Despite the support of Earl Brown and David Tudor in cutting and gluing the tapes, it took about a year to complete the complex sound montage, which is only four minutes long. The performance is performed with four stereo tape recorders and eight loudspeakers. In 2012, Tom Erbe became the first person to recreate "Williams Mix" from the original score, entering each tape edit from the score into the computer, and creating performance software carefully following Cage's notes.
 
-{% include begin-figure description="Iannis Xenakis" %}
+{% include begin-figure description="Score of Williams Mix (1952)" %}
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114674643-bb70dd00-9d07-11eb-8d6c-90bd6d226a5c.png">
 {% include end-figure %}
 
