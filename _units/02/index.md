@@ -46,7 +46,7 @@ The interaction between technology and the arts does not have to be a direct one
 If now an attempt is made to present the history of multimedia in three stages, it is also important to note that there are of course smooth transitions and overlaps. While, for example, the beginning of interactive music is given as the year 2000, one should be aware of the fact that the origins of interactivity go back to the first beginnings of computer music and that important interactive pieces, for example those by Michel Waisvisz were  realized as early as the 1980s.
 
 # SPECULATIVE STAGE
-## Development of cybernetics and information theory: Wiener, v. Neumann and Szilárd
+## Development of cybernetics and information theory: Norbert Wiener
 
 {% include begin-figure description="Nobert Wiener: Men, machines, and the world about them" %}
 <div style="display: block; text-align: center; float: center">
