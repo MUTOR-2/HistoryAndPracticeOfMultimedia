@@ -87,24 +87,24 @@ The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectu
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png">
 {% include end-figure %}
 
-### The first computer-generated scores
 
-Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer. 
+### 1969: HPSCHD 
+HPSCHD by Cage and Lejaren Hiller [has been described](https://www.good-music-guide.com/community/index.php?topic=9355.80) as: 
+> "arguably the wildest composition of the 20th century. Big, brash, exuberant, raucous, a performance is about four hours of ongoing high-level intensity. The sound is a mixture of seven amplified harpsichords playing computer-generated variations of Mozart and other composers along with 52 computer-generated tapes playing what could be off-tuned trumpets sounding some musical charge. The thousands of swirling images, overlayed and mixed, of abstract shapes and colors and of space imagery from slides and films borrowed from NASA, create a chaotic riot of shifting form and color. The audience walks through the performance space, between the harpsichord players, around the loudspeakers. This recording is an event. First, because the quality of the superb sound captures the colors, the details, the exuberance of a performance. Second, because the graphic materials that are included with the recording, fifteen cards that can be assembled into a poster, are so vivid and stunning. More, the notes by Johanne Rivest, Bill Brooks, David Eisenman, Joel Chadabe, and Robert Conant give you the history of the composition, convey the spirit of the first performance, and provide a background for this recording.” 
 
-{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png">
-{% include end-figure %}
+The spectacle featured 7 harpsichords playing extracts of music by Cage and classical composers, 52 cassettes of computer-generated sounds, 6400 slides projected by 64 projectors and 40 films. 
 
-{% include begin-figure description="Music From Mathematics" %}
-<div style="display: block; text-align: center; float: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/v5z3t2qz4qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include begin-figure description="Original recording of the first part of HPSCHD" %}
+<div style="display: block; text-align: center; float: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t_hTxJpWITw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 {% include end-figure %}
 
-Yet, the first piece of music ever composed by a computer in 1956 was the melody for the popular music song "Push-button Bertha" by Martin Klein and Douglas Bolitho (albeit with a very human harmonization).
-{% include begin-figure description="Push-button Bertha" by Martin Klein and Douglas Bolitho" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png">
+{% include begin-figure description="2013 production at Eyebeam Art and Technology Center" %}
+<div style="display: block; text-align: center; float: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-H8V7x8GCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 {% include end-figure %}
-
 
 ## Xenakis: Formalised Music and Multimedia
 Iannis Xenakis (1922-2001), who for a while also worked as an architect under Le Corbusier, was certainly one of the most celebrated computer composers. He drew his inspiration, ancient Greek mythology aside, from complex geometric figures and statistical procedures known as stochastics. In "Formalized Music: Thought and Mathematics in Composition" published in 1971 and in some ways the counterpart to Messiaen's "Technique de mon language musical," Xenakis describes the mathematical prerequisites for his work, his thinking in terms of densities and probabilities, which is also motivated by his early criticism of total serialism as am example of an utopianism striving to subject all musical parameters to the same laws - and at the same time failing to do so since the cognitive processes operating on the outcomes impose their own laws which may run counter to its original tenets. 
