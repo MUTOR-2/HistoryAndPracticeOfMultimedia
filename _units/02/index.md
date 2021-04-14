@@ -87,22 +87,6 @@ The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectu
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png">
 {% include end-figure %}
 
-### The first computer-generated scores
-Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer. 
-
-{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller and Leonard Issacson" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png">
-{% include end-figure %}
-
-{% include begin-figure description="Music From Mathematics" %}
-<div style="display: block; text-align: center; float: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/v5z3t2qz4qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-{% include end-figure %}
-
-Yet, the first piece of music ever composed by a computer in 1956 was the melody for the popular music song "Push-button Bertha" by Martin Klein and Douglas Bolitho (albeit with a very human harmonization).
-{% include begin-figure description="Push-button Bertha by Martin Klein and Douglas Bolitho" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png">
-{% include end-figure %}
 
 ## John Cage
 John Cage (1912-1992) was an protagonist of the 20th century avant-garde whose work had an enormous impact of nearly all art forms. His interest in using electronics goes back to the 1939 composition Imaginary Landscape No. 1, calling for two variable-speed phono turntables playing "frequency recordings".
