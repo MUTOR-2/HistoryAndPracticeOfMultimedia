@@ -45,64 +45,6 @@ The interaction between technology and the arts does not have to be a direct one
 
 If now an attempt is made to present the history of multimedia in three phases, it is also important to note that there are of course smooth transitions and overlaps. While, for example, the beginning of interactive music is given as the year 2000, one should be aware of the fact that the origins of interactivity go back to the first beginnings of computer music and that important interactive pieces, for example those by Michel Waisvisz were  realized as early as the 1980s.
 
-# SPECULATIVE PHASE
-## Development of cybernetics and information theory: Wiener, v. Neumann and Szilárd
-
-{% include begin-figure description="Nobert Wiener: Men, machines, and the world about them" %}
-<div style="display: block; text-align: center; float: center">
-<iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnyc/#file=/audio/json/403356/&share=1"></iframe>
-</div>
-{% include end-figure %}
-
-### Information Theory
-
-The year 1945 marked a new beginning in the history of the Western world. Fascism and nationalism have plunged almost the entire civilized world into a war of annihilation, to which the United States responded with an unparalleled rearmament. In the course of this mobilization, in addition to the atomic bomb, which helped to finally end the world war, the US Army Ordnance started to develop the ENIAC (Electronic Numerical Integrator And Computer) in 1943. At the same time, Leo Szilárd (1898-1964), John von Neumann (1903-1957) and Norbert Wiener (1894-1964) laid the mathematical foundations of information theory. It was Wiener who invented the word "cybernetics" in 1947 as an umbrella term for the science of the "[communication and control in the animal and the machine](https://github.com/MUTOR-2/HistoryAndPracticeOfMultimedia/raw/f3319d3b59e3f7e35a69178688a6ecc85a191d77/assets/other/Norbert_Wiener_Cybernetics.pdf)". We should  note that the ENIAC, completed in late 1945, was by no means the first digital computer: The Z3 computer built by Conrad Zuse was finished four years ealier but never put to use. 
-
-{% include begin-figure description="The cover of  Nobert Wiener's groundbreaking book Cybernetics: or the Control and Communication in the Animal and the Machine" %}
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/17442406/114518557-c6f8d100-9c3f-11eb-9b33-0f897643db97.png">
-{% include end-figure %}
-
-{% include begin-figure description="The Zuse Z3 computer" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114518647-dd069180-9c3f-11eb-8301-d4169e085417.png">{% include end-figure %}
-
-{% include begin-figure description="The ENIAC computer" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114517899-11c61900-9c3f-11eb-93c1-4a0805a584b0.png">{% include end-figure %}
-
-Parallel to the spread of cybernetics in the exact sciences, principles of quantifiable entities increasingly influenced artists and their creations. In 1948, Swiss architect and painter Le Corbusier published his first draft of the Modulor, an anthropometric scale of proportions based on the Golden Mean and in 1947 the mathematician and composer Milton Babbitt wrote "Three Compositions for Piano" considered the first example of total serialism.  In 1949, Olivier Messiaen composed the piano pieces "Mode de valeurs et d'intensités" and "Cantéyodjayâ" influenced by Anton Webern, whose music laid the ground for this direction — a direction that was eventually taken up and further developed by the young composers of the early Darmstadt School (Pierre Boulez, Luigi Nono, Karlheinz Stockhausen, and others). 
-
-{% include begin-figure description="Oliver Messiaen: Cantéyodjayâ" %}
-<div style="display: block; text-align: center; float: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0xXSoogzRP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-{% include end-figure %}
-
-Both approaches, information theory and serial music, have in common a thinking in quantizable, statistically detectable units of information. Iannis Xenakis consequently introduced the concept of stochastics into musical discourse in his 1955 critique of "linear counterpoint". It should be noted that the technological and quantitative thinking in arts didn't just pop up during the middle of the 20th century: The Bauhaus founded in 1919 in Weimar can be considered a precursor to much that followed and the invention of dodecaphony conceived by Hauer in the same year and revised by Schoenberg four years later is another example for how the zeitgeist operated on different art forms.
-
-In the 1950s, information theory, as a very young field of science, raised numerous questions in its heuristic application to music. In retrospect, many of these assumptions were utopian and hardly verifiable; one can therefore call this phase in computer music, which lasted roughly until 1970, the "speculative phase". Without extensive knowledge of music perception and cognition, which at the time had hardly developed beyond the results of Helmholtz's 19th century research, information theory seemed to at least give composers a tool with which to organize the almost endless possibilities of electronic, as well as acoustic, music.
-
-## Application of Information Theory to Music
-The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectures on information theory and computer music at the International Summer Courses for New Music in Darmstadt in 1963. His concept of musical information density was informed by statistics and the mathematical foundations of communication theory. Hiller's diagrams comparing the information density of select compositions from Mozart to Hindemith (measured in bits per second) seem strange from the distance of 40 years, but they corresponded to a widespread way of thinking at that time.
-
-{% include begin-figure description="Measurement of information content of select pieces according to Lejaren Hiller" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png">{% include end-figure %}
-
-### The first computer-generated scores
-
-Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer. 
-
-{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png">{% include end-figure %}
-
-{% include begin-figure description="Music From Mathematics" %}
-<div style="display: block; text-align: center; float: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/v5z3t2qz4qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-{% include end-figure %}
-
-Yet, the first piece of music ever composed by a computer in 1956 was the melody for the popular music song "Push-button Bertha" by Martin Klein and Douglas Bolitho (albeit with a very human harmonization).
-{% include begin-figure description="Push-button Bertha" by Martin Klein and Douglas Bolitho" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png">
-{% include end-figure %}
-
 
 
 # EXPLORATORY PHASE
