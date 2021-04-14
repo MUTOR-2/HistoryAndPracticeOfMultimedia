@@ -90,7 +90,7 @@ The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectu
 ### The first computer-generated scores
 Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer. 
 
-{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
+{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller and Leonard Issacson" %}
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png">
 {% include end-figure %}
 
