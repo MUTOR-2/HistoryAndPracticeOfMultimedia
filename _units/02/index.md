@@ -226,7 +226,7 @@ Another former IRCAM resident is Clarence Barlow (* 1945) whose work epitomizes 
 The establishment of IRCAM was aided by Max Mathews and John Chowing (* 1938) who co-founded the "Center for Computer Research in Music and Acoustics" (CCRMA) at Stanford University opening its doors in 1976. incidentally, Chowing was also involved in a failed attempt to establish a computer music research center at the Hamburg University of Music and Theater in 1973 on behalf of György Ligeti. Chowning is noted for his work in sound spatizaliation and the invention of FM synthesis, which made his university more than $25 million in licensing fees.
 
 {% include begin-figure description="Photo of John Chowning in front of a Yamaha synthesizer using the synthesis technique he invented" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114539124-7344b280-9c54-11eb-9887-39bcd61421ed.png)">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114539124-7344b280-9c54-11eb-9887-39bcd61421ed.png">
 {% include end-figure %}
 
 # THE INTERACTIVE PHASE
