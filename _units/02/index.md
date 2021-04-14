@@ -78,11 +78,12 @@ Parallel to the spread of cybernetics in the exact sciences, principles of quant
 </div>
 {% include end-figure %}
 
+## Application of Information Theory to Music
+
 Both approaches, information theory and serial music, have in common a thinking in quantifiable, statistically detectable units of information. Iannis Xenakis consequently introduced the concept of stochastics into musical discourse in his 1955 critique of "linear counterpoint". It should be noted that the technological and quantitative thinking in arts didn't just pop up during the middle of the 20th century: The Bauhaus founded in 1919 in Weimar can be considered a precursor to much that followed and the invention of dodecaphony conceived by Hauer in the same year and revised by Schoenberg four years later is another example for how the zeitgeist operated on different art forms.
 
 In the 1950s, information theory, as a very young field of science, raised numerous questions in its heuristic application to music. In retrospect, many of these assumptions were utopian and hardly verifiable; one can therefore call this stage in computer music, which lasted roughly until 1970, the "speculative stage". Without extensive knowledge of music perception and cognition, which at the time had hardly developed beyond the results of Helmholtz's 19th century research, information theory seemed to at least give composers a tool with which to organize the almost endless possibilities of electronic, as well as acoustic, music.
 
-## Application of Information Theory to Music
 The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectures on information theory and computer music at the International Summer Courses for New Music in Darmstadt in 1963. His concept of musical information density was informed by statistics and the mathematical foundations of communication theory. Hiller's diagrams comparing the information density of select compositions from Mozart to Hindemith (measured in bits per second) seem strange from the distance of 40 years, but they corresponded to a widespread way of thinking at that time.
 
 {% include begin-figure description="Measurement of information content of select pieces according to Lejaren Hiller" %}
