@@ -155,7 +155,7 @@ In his book "Space Calculated in Seconds" the UC Berkeley architecture professor
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/17442406/114434802-b60a7a00-9bc3-11eb-9943-55a6c10df0a7.png">
 {% include end-figure %}
 
-[Describing the Ineffable: Le Corbusier, Le Poème Electronique and Montage by Açalya Kiyak](https://e-pub.uni-weimar.de/opus4/frontdoor/deliver/index/docId/1268/file/kiyak_pdf)
+[Describing the Ineffable: Le Corbusier, Le Poème Electronique and Montage by Açalya Kiyak](https://e-pub.uni-weimar.de/opus4/frontdoor/deliver/index/docId/1268/file/kiyak_pdfa.pdf)
 
 
 ## How Time Passes: Stockhausen
