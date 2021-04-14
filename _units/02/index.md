@@ -155,7 +155,8 @@ In his book "Space Calculated in Seconds" the UC Berkeley architecture professor
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/17442406/114434802-b60a7a00-9bc3-11eb-9943-55a6c10df0a7.png">
 {% include end-figure %}
 
-[Describing the Ineffable: Le Corbusier, Le Poème Electronique and Montage by Açalya Kiyak](https://e-pub.uni-weimar.de/opus4/frontdoor/deliver/index/docId/1268/file/kiyak_pdfa.)
+[Describing the Ineffable: Le Corbusier, Le Poème Electronique and Montage by Açalya Kiyak](https://e-pub.uni-weimar.de/opus4/frontdoor/deliver/index/docId/1268/file/kiyak_pdf)
+
 
 ## How Time Passes: Stockhausen
 In Germany, the phonetician [Werner Meyer-Eppler](https://en.wikipedia.org/wiki/Werner_Meyer-Eppler) (1913 - 1960) exerted a major influence on composers such as Herbert Eimert (1897-1972) and Karlheinz Stockhausen (1928 - 2007). Meyer-Eppler was concerned with the fundamentals of information theory and its application to phonetics and speech synthesis. Although Karlheinz Stockhausen in principle did not use computers for composing, his thinking was strongly influenced by information theory and the formalization of musical processes. His main theoretical work "Wie die Zeit vergeht" (How Time Passes) deals with the phenomenon of musical time as a continuum from the frequency of a single tone to the large-scale form of opera. The "Elektronische Studie II", composed and realized in 1954, is still entirely in the tradition of total serialism. A real-time realization (created in 2000) by the author of this unit is included in the multimedia programming environment Max.
