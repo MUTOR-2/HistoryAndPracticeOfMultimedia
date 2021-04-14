@@ -87,6 +87,67 @@ The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectu
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png">
 {% include end-figure %}
 
+### The first computer-generated scores
+Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer. 
+
+{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png">
+{% include end-figure %}
+
+{% include begin-figure description="Music From Mathematics" %}
+<div style="display: block; text-align: center; float: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/v5z3t2qz4qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% include end-figure %}
+
+Yet, the first piece of music ever composed by a computer in 1956 was the melody for the popular music song "Push-button Bertha" by Martin Klein and Douglas Bolitho (albeit with a very human harmonization).
+{% include begin-figure description="Push-button Bertha by Martin Klein and Douglas Bolitho" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png">
+{% include end-figure %}
+
+## John Cage
+John Cage (1912-1992) was an protagonist of the 20th century avant-garde whose work had an enormous impact of nearly all art forms. His interest in using electronics goes back to the 1939 composition Imaginary Landscape No. 1, calling for two variable-speed phono turntables playing "frequency recordings".
+
+### 1952: Williams Mix
+Cage's first composition for tape  pushes the limits of the medium. While fully realized in an analog medium, Cage's approach of using short samples, some just lasting just a few milliseconds, presages modern computer editing techniques. Williams Mix features
+>"A score (192 pages) for making music on magnetic tape. Each page has two systems comprising eight lines each. These eight lines are eight tracks of tape and they are pictured full-size so that the score constitutes a pattern for the cutting of tape and its splicing. All recorded sounds are placed in six categories ... Approximately 600 recordings are necessary to make a version of this piece. The composing means were chance operations dervied from the I-Ching."
+
+The only realization of this score until 2012 is by Cage himself. Despite the support of Earl Brown and David Tudor in cutting and gluing the tapes, it took about a year to complete the complex sound montage, which is only four minutes long. The performance is performed with four stereo tape recorders and eight loudspeakers. In 2012, Tom Erbe became the first person to recreate "Williams Mix" from the original score, entering each tape edit from the score into the computer, and creating performance software carefully following Cage's notes.
+
+{% include begin-figure description="Iannis Xenakis" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114674643-bb70dd00-9d07-11eb-8d6c-90bd6d226a5c.png">
+{% include end-figure %}
+
+### The first computer-generated scores
+
+Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer. 
+
+{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png">
+{% include end-figure %}
+
+{% include begin-figure description="Music From Mathematics" %}
+<div style="display: block; text-align: center; float: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/v5z3t2qz4qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% include end-figure %}
+
+Yet, the first piece of music ever composed by a computer in 1956 was the melody for the popular music song "Push-button Bertha" by Martin Klein and Douglas Bolitho (albeit with a very human harmonization).
+{% include begin-figure description="Push-button Bertha" by Martin Klein and Douglas Bolitho" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png">
+{% include end-figure %}
+
+## John Cage
+John Cage (1912-1992) was an protagonist of the 20th century avant-garde whose work had an enormous impact of nearly all art forms. His interest in using electronics goes back to the 1939 composition Imaginary Landscape No. 1, calling for two variable-speed phono turntables playing "frequency recordings".
+
+### 1952: Williams Mix
+Cage's first composition for tape  pushes the limits of the medium. While fully realized in an analog medium, Cage's approach of using short samples, some just lasting just a few milliseconds, presages modern computer editing techniques. Williams Mix features
+>"A score (192 pages) for making music on magnetic tape. Each page has two systems comprising eight lines each. These eight lines are eight tracks of tape and they are pictured full-size so that the score constitutes a pattern for the cutting of tape and its splicing. All recorded sounds are placed in six categories ... Approximately 600 recordings are necessary to make a version of this piece. The composing means were chance operations dervied from the I-Ching."
+
+The only realization of this score until 2012 is by Cage himself. Despite the support of Earl Brown and David Tudor in cutting and gluing the tapes, it took about a year to complete the complex sound montage, which is only four minutes long. The performance is performed with four stereo tape recorders and eight loudspeakers. In 2012, Tom Erbe became the first person to recreate "Williams Mix" from the original score, entering each tape edit from the score into the computer, and creating performance software carefully following Cage's notes.
+
+{% include begin-figure description="Iannis Xenakis" %}
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114674643-bb70dd00-9d07-11eb-8d6c-90bd6d226a5c.png">
+{% include end-figure %}
+
 
 ### 1969: HPSCHD 
 HPSCHD by Cage and Lejaren Hiller [has been described](https://www.good-music-guide.com/community/index.php?topic=9355.80) as: 
