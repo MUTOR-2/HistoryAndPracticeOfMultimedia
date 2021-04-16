@@ -10,9 +10,6 @@ summary: "While the groundwork for computer music and multimedia as we practice 
 authors: 
 - Georg Hajdu
 topics: [The Speculative Stage, The Exploratory Stage, The Interactive Stage]
-test_questions:
-- Question 1
-- Question 2
 
 references:
  lamport78:
@@ -122,8 +119,8 @@ The only realization of this score until 2012 is by Cage himself. Despite the su
 
 ### 1969: HPSCHD 
 In 1969, Cage and Lejaren Hiller organized a spactacle which featured 7 harpsichords playing extracts of music by Cage and classical composers, 52 cassettes of computer-generated sounds, 6400 slides projected by 64 projectors and 40 films. 
-It[has been described](https://www.good-music-guide.com/community/index.php?topic=9355.80) as: 
-> "arguably the wildest composition of the 20th century. Big, brash, exuberant, raucous, a performance is about four hours of ongoing high-level intensity. The sound is a mixture of seven amplified harpsichords playing computer-generated variations of Mozart and other composers along with 52 computer-generated tapes playing what could be off-tuned trumpets sounding some musical charge. The thousands of swirling images, overlayed and mixed, of abstract shapes and colors and of space imagery from slides and films borrowed from NASA, create a chaotic riot of shifting form and color. The audience walks through the performance space, between the harpsichord players, around the loudspeakers.” 
+It [has been described](https://www.good-music-guide.com/community/index.php?topic=9355.80) as: 
+> "Arguably the wildest composition of the 20th century. Big, brash, exuberant, raucous, a performance is about four hours of ongoing high-level intensity. The sound is a mixture of seven amplified harpsichords playing computer-generated variations of Mozart and other composers along with 52 computer-generated tapes playing what could be off-tuned trumpets sounding some musical charge. The thousands of swirling images, overlayed and mixed, of abstract shapes and colors and of space imagery from slides and films borrowed from NASA, create a chaotic riot of shifting form and color. The audience walks through the performance space, between the harpsichord players, around the loudspeakers.” 
 
 
 
@@ -205,7 +202,7 @@ Nevertheless, a return to old traditions seemed out of the question, so instead 
 The first idea of a center dedicated to the research of music and multimedia at the crossroads of art, technology and science goes back to conductor and pianist Hermann Scherchen (1891-1966) who founded a studio in Gravesano, Switzerland. He also edited a journal called [Gravesaner Blätter](https://github.com/MUTOR-2/HistoryAndPracticeOfMultimedia/raw/main/assets/other/Gravesaner_Blaetter-Inhaltsverzeichnis.pdf) to which between 1955 and 1966 some of the great minds of his time such as Boulez, Pierre Schaeffer, Xenakis, Moles, Trautwein, Le Corbusier, Adorno, Meyer-Eppler, Tenney as well as Mathews and Pierce have contributed to.  
 
 ## Bell Labs
-John R. Pierce (1910-2002) was an American engineer and author who wrote on electronics and information theory, and developed jointly the concept of pulse-code modulation (PCM) with his Bell Labs colleagues Barney Oliver and Claude Shannon. He supervised the Bell Labs team which built the first transistor and gave it its name. He also lend his own name to the Bohlen-Pierce scale which he co-discovered. At Bell Labs, he was known to give his co-workers, Max Mathews among them, freedom to pursue odd projects without an explicit goal to create products for commercial exploitation. They had a position for a "research composer in residence" which gave James Tenney (1934-2006) and Jean-Claude Risset (1938-2016), a French physicist, pianist and composer, the opportunity to pursue their research interests. Jean Claude Risset later became the head of the Computer Department at IRCAM (1975-1979) and composed his the first Duet for one pianist (1989) at the MIT Media Lab.Bell Labs was responsible for a few computer graphics and music firsts: 
+John R. Pierce (1910-2002) was an American engineer and author who wrote on electronics and information theory, and developed jointly the concept of [Pulse-code modulation (PCM)](https://en.wikipedia.org/wiki/Pulse-code_modulation) with his Bell Labs colleagues Barney Oliver and Claude Shannon. He supervised the Bell Labs team which built the first transistor and gave it its name. He also lend his own name to the Bohlen-Pierce scale which he co-discovered. At Bell Labs, he was known to give his co-workers, Max Mathews among them, freedom to pursue odd projects without an explicit goal to create products for commercial exploitation. They had a position for a "research composer in residence" which gave James Tenney (1934-2006) and Jean-Claude Risset (1938-2016), a French physicist, pianist and composer, the opportunity to pursue their research interests. Jean Claude Risset later became the head of the Computer Department at IRCAM (1975-1979) and composed his the first Duet for one pianist (1989) at the MIT Media Lab.Bell Labs was responsible for a few computer graphics and music firsts: 
 
 The Bell Labs were noted for the following accomplishments in the area of computer art:
 - 1961: computer performs "Daisy Bell" with music programmed by Max Mathews and speech programmed by John Kelly and Carol Lockbaum. This was later the inspiration for the computer "HAL" singing the song in the movie 2001. Daisy Bell was also the nickname of one of Alexander Graham Bell's daughters. 
@@ -219,7 +216,7 @@ The foundation of IRCAM was decided by President Pompidou as early as 1970 on th
 
 __The realization of numerous compositions at IRCAM, for which - as for Boulez' "Répons" (1986) - new software and hardware was developed, is symptomatic of the successful collaboration between musicians and scientists, but also of the increasing academization of computer music and multimedia.__
 
-Of the composers working at IRCAM, Grisey (1948-98) and Murail (* 1947) stand out in particular as founders of the compositional technique known as "spectralism". Together with Roger Tessier and Michaël Levinas, they founded the ensemble L'Itineraire as early as 1973, which premiered numerous spectral compositions. The basis of spectral composition is the Fourier analysis of sounds and the transcription of the partials contained in the spectra to acoustic instruments. The spectralists were soon joined by the British composer Jonathan Harvey (1939-2012), who in 1980 realized his tape music piece "Mortuos Plango, Vivos Voco". The software Max (named after Max Mathews) was invented by Miller Puckette (* 1959) a mathematician and computer musician working at IRCAM in the 1980s under the supervision of David Wessel.
+Of the composers working at IRCAM, Grisey (1948-1998) and Murail (* 1947) stand out in particular as founders of the compositional technique known as "spectralism". Together with Roger Tessier and Michaël Levinas, they founded the ensemble L'Itineraire as early as 1973, which premiered numerous spectral compositions. The basis of spectral composition is the Fourier analysis of sounds and the transcription of the partials contained in the spectra to acoustic instruments. The spectralists were soon joined by the British composer Jonathan Harvey (1939-2012), who in 1980 realized his tape music piece "Mortuos Plango, Vivos Voco". The software Max (named after Max Mathews) was invented by Miller Puckette (* 1959) a mathematician and computer musician working at IRCAM in the 1980s under the supervision of David Wessel.
 
 {% include begin-figure description="Photo of the adminstrative building of IRCAM" %}
  <img width="385" alt="image" src="https://user-images.githubusercontent.com/17442406/114465408-6047c900-9be7-11eb-9806-04fa7b1f6c2d.png">
@@ -268,8 +265,7 @@ A few words about my own work. As a student of Clarence Barlow's and a PhD stude
 ## The Postdigital
 In the Postdigital we observe an explosion of technological possibilities and artistic expressions; much of it will the subject of the upcoming presentations. A comprehensive overview will be given by Alexander Schubert in the next unit.
 
-See the [example unit]({{ site.baseurl }}/example-unit.html) for formatting
-guidelines. Remember, time doesn't exist
+
 {% include cite ref='lamport78' %}.
 
 {% include unit_postamble.md %}
