@@ -10,9 +10,6 @@ summary: "While the groundwork for computer music and multimedia as we practice 
 authors: 
 - Georg Hajdu
 topics: [The Speculative Stage, The Exploratory Stage, The Interactive Stage]
-test_questions:
-- Question 1
-- Question 2
 
 references:
  lamport78:
@@ -268,8 +265,7 @@ A few words about my own work. As a student of Clarence Barlow's and a PhD stude
 ## The Postdigital
 In the Postdigital we observe an explosion of technological possibilities and artistic expressions; much of it will the subject of the upcoming presentations. A comprehensive overview will be given by Alexander Schubert in the next unit.
 
-See the [example unit]({{ site.baseurl }}/example-unit.html) for formatting
-guidelines. Remember, time doesn't exist
+
 {% include cite ref='lamport78' %}.
 
 {% include unit_postamble.md %}
