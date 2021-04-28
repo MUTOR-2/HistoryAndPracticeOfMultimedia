@@ -55,17 +55,15 @@ The year 1945 marked a new beginning in the history of the Western world. Fascis
 </div>
 {% include end-figure %}
 
-{% include begin-figure description="The cover of  Nobert Wiener's groundbreaking book Cybernetics: or the Control and Communication in the Animal and the Machine" %}
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/17442406/114518557-c6f8d100-9c3f-11eb-9b33-0f897643db97.png">
-{% include end-figure %}
+{% include img-figure width="350px" url="https://user-images.githubusercontent.com/17442406/114518557-c6f8d100-9c3f-11eb-9b33-0f897643db97.png"  description="The cover of  Nobert Wiener's groundbreaking book Cybernetics: or the Control and Communication in the Animal and the Machine" %}
 
-{% include begin-figure description="The ENIAC computer" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114517899-11c61900-9c3f-11eb-93c1-4a0805a584b0.png">{% include end-figure %}
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114517899-11c61900-9c3f-11eb-93c1-4a0805a584b0.png"  description="The ENIAC computer" %}
 
 We should  note that the ENIAC, completed in late 1945, was by no means the first digital computer: The Z3 computer built by Conrad Zuse was finished four years ealier but never put to use. 
 
-{% include begin-figure description="The Zuse Z3 computer" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114518647-dd069180-9c3f-11eb-8301-d4169e085417.png">{% include end-figure %}
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114518647-dd069180-9c3f-11eb-8301-d4169e085417.png"  description="The Zuse Z3 computer" %}
+
+
 
 Parallel to the spread of cybernetics in the exact sciences, principles of quantifiable entities increasingly influenced artists and their creations. In 1948, Swiss architect and painter Le Corbusier published his first draft of the Modulor, an anthropometric scale of proportions based on the Golden Mean and in 1947 the mathematician and composer Milton Babbitt wrote "Three Compositions for Piano" considered the first example of total serialism.  In 1949, Olivier Messiaen composed the piano pieces "Mode de valeurs et d'intensités" and "Cantéyodjayâ" influenced by Anton Webern, whose music had laid the ground for this direction — a direction that was eventually taken up and further developed by the young composers of the early Darmstadt School (Pierre Boulez, Luigi Nono, Karlheinz Stockhausen, and others). 
 
@@ -83,16 +81,15 @@ In the 1950s, information theory, as a very young field of science, raised numer
 
 The American pioneer of computer music Lejaren Hiller (1924-1992) gave two lectures on information theory and computer music at the International Summer Courses for New Music in Darmstadt in 1963. His concept of musical information density was informed by statistics and the mathematical foundations of communication theory. Hiller's diagrams comparing the information density of select compositions from Mozart to Hindemith (measured in bits per second) seem strange from the distance of 40 years, but they corresponded to a widespread way of thinking at that time.
 
-{% include begin-figure description="Measurement of information content of select pieces according to Lejaren Hiller" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png">
-{% include end-figure %}
+
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114523704-d1699980-9c44-11eb-88fb-4248d6944690.png"  description="Measurement of information content of select pieces according to Lejaren Hiller" %}
+
+
 
 ### The first computer-generated scores
 Lejaren Hiller (together with Leonard Issacson) is also credited for having created in 1957 one of the first computer-generated compositions: This composition for string quartet is called Illiac Suite, as it was calculated on the Illinois Integrator and Numerator computer. 
 
-{% include begin-figure description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png">
-{% include end-figure %}
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114609691-5d101400-9c9f-11eb-89c3-5117cbf8684f.png"  description="Excerpt from the Illiac Suite by Lejaren Hiller & Leonard Issacson" %}
 
 {% include begin-figure description="Music From Mathematics" %}
 <div style="display: block; text-align: center; float: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/v5z3t2qz4qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -100,9 +97,8 @@ Lejaren Hiller (together with Leonard Issacson) is also credited for having crea
 {% include end-figure %}
 
 Yet, the first piece of music ever composed by a computer in 1956 was the melody for the popular music song "Push-button Bertha" by Martin Klein and Douglas Bolitho (albeit with a very human harmonization).
-{% include begin-figure description="Push-button Bertha by Martin Klein and Douglas Bolitho" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png">
-{% include end-figure %}
+
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114611909-c98c1280-9ca1-11eb-9975-3b650c7a918c.png"  description="Push-button Bertha by Martin Klein and Douglas Bolitho" %}
 
 ## John Cage
 John Cage (1912-1992) was a protagonist of the 20th century avant-garde whose work had an enormous impact of nearly all art forms. His interest in using electronics goes back to the 1939 composition Imaginary Landscape No. 1, calling for two variable-speed phono turntables playing "frequency recordings".
@@ -113,9 +109,7 @@ Cage's first composition for tape  pushes the limits of the medium. While fully 
 
 The only realization of this score until 2012 is by Cage himself. Despite the support of Earl Brown and David Tudor in cutting and gluing the tapes, it took about a year to complete the complex sound montage, which is only four minutes long. The piece is performed with four stereo tape recorders and eight loudspeakers. In 2012, Tom Erbe became the first person to recreate "Williams Mix" from the original score, entering each tape edit from the score into the computer, and creating performance software carefully following Cage's notes.
 
-{% include begin-figure description="Score of Williams Mix (1952)" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114674643-bb70dd00-9d07-11eb-8d6c-90bd6d226a5c.png">
-{% include end-figure %}
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114674643-bb70dd00-9d07-11eb-8d6c-90bd6d226a5c.png"  description="Score of Williams Mix (1952)" %}
 
 ### 1969: HPSCHD 
 In 1969, Cage and Lejaren Hiller organized a spactacle which featured 7 harpsichords playing extracts of music by Cage and classical composers, 52 cassettes of computer-generated sounds, 6400 slides projected by 64 projectors and 40 films. 
@@ -139,9 +133,7 @@ It [has been described](https://www.good-music-guide.com/community/index.php?top
 ## Xenakis: Formalised Music and Multimedia
 Iannis Xenakis (1922-2001), who for a while also worked as an architect under Le Corbusier, was certainly one of the most celebrated computer composers. He drew his inspiration, ancient Greek mythology aside, from complex geometric figures and statistical procedures known as stochastics. In "Formalized Music: Thought and Mathematics in Composition" published in 1971 and in some ways the counterpart to Messiaen's "Technique de mon language musical," Xenakis describes the mathematical prerequisites for his work, his thinking in terms of densities and probabilities, which is also motivated by his early criticism of total serialism as an example of a utopian strive to subject all musical parameters to the same laws - and at the same time failing to do so since the cognitive processes operating on the outcomes impose their own laws which may run counter to its original intent. 
 
-{% include begin-figure description="Iannis Xenakis" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114610638-706faf00-9ca0-11eb-840e-14cb33b26395.png">
-{% include end-figure %}
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114610638-706faf00-9ca0-11eb-840e-14cb33b26395.png"  description="Iannis Xenakis" %}
 
 Xekakis' ST/n compositions such as [ST/4](https://youtu.be/BWltre1ddS4) for string quartet and [ST/48](https://youtu.be/71xLJ1HoNxc ) for large orchestra represent his effort to use computers to calculate stochastic processes and to transcribe them into music. 
 
@@ -150,9 +142,7 @@ In 1958, Xenakis contributed to a large scale multimedia project, The Poème él
 In his book "Space Calculated in Seconds" the UC Berkeley architecture professor Marc Treib writes about the project:
 > "Poème électronique" (electronic poem) is the first electronic-spatial environment that combines architecture, film, light and music to create an overall experience that fuses space and time. Under the direction of Le Corbusier, Iannis Xenakis designed the concept and geometry of the World's Fair building according to mathematical functions, while Edgard Varèse composed the mixed concrete and vocal music to accompany the dynamic light and image projections conceived by Le Corbusier. Varèse had long striven in his music for abstract, partly visually inspired concepts of form and spatial movement. For "Poème électronique," he used machine noises, transposed piano chords, filtered choral and soloist voices, and synthetic timbres, among other things. With the help of advanced technology provided by Philips, the sounds of the tape composition could be moved along complex trajectories in space. "The Philips Pavilion presented a collage-like litany of 20th century man's dependence on electricity rather than daylight, on virtual perspectives rather than vistas of the earth."
 
-{% include begin-figure description="Hand-colored postcard of the Philips Pavilion" %}
-<img width="432" alt="image" src="https://user-images.githubusercontent.com/17442406/114434802-b60a7a00-9bc3-11eb-9943-55a6c10df0a7.png">
-{% include end-figure %}
+{% include img-figure width="432px" url="https://user-images.githubusercontent.com/17442406/114434802-b60a7a00-9bc3-11eb-9943-55a6c10df0a7.png"  description="Hand-colored postcard of the Philips Pavilion" %}
 
 [Describing the Ineffable: Le Corbusier, Le Poème Electronique and Montage by Açalya Kiyak](https://e-pub.uni-weimar.de/opus4/frontdoor/deliver/index/docId/1268/file/kiyak_pdfa.pdf)
 
@@ -218,22 +208,17 @@ __The realization of numerous compositions at IRCAM, for which - as for Boulez' 
 
 Of the composers working at IRCAM, Grisey (1948-1998) and Murail (* 1947) stand out in particular as founders of the compositional technique known as "spectralism". Together with Roger Tessier and Michaël Levinas, they founded the ensemble L'Itineraire as early as 1973, which premiered numerous spectral compositions. The basis of spectral composition is the Fourier analysis of sounds and the transcription of the partials contained in the spectra to acoustic instruments. The spectralists were soon joined by the British composer Jonathan Harvey (1939-2012), who in 1980 realized his tape music piece "Mortuos Plango, Vivos Voco". The software Max (named after Max Mathews) was invented by Miller Puckette (* 1959) a mathematician and computer musician working at IRCAM in the 1980s under the supervision of David Wessel.
 
-{% include begin-figure description="Photo of the adminstrative building of IRCAM" %}
- <img width="385" alt="image" src="https://user-images.githubusercontent.com/17442406/114465408-6047c900-9be7-11eb-9806-04fa7b1f6c2d.png">
-{% include end-figure %}
+{% include img-figure width="385px" url="https://user-images.githubusercontent.com/17442406/114465408-6047c900-9be7-11eb-9806-04fa7b1f6c2d.png"  description="Photo of the adminstrative building of IRCAM" %}
 
 ## The Composer as Researcher: Clarence Barlow
 Another former IRCAM resident is Clarence Barlow (* 1945) whose work epitomizes the explorative stage of computer music: the composer being a cognitive researcher, music theorist and software programmer all at the same time. In this way, incidentally, he resembles James Tenney, who, as it was stated earlier, was involved in experiments at Bell Laboratories with Max Mathews and later worked on cognitive and historical aspects of tuning and tonality. Barlow studied with Bernd Alois Zimmermann (1918-1970) in 1968-70, and the following two years with Karlheinz Stockhausen. He worked at various European studios, including IRCAM, where he realized his groundbreaking piano piece "Çoğluotobüsişletmesi" (1978). In his book "Bus Journey to Parametron" (1980), interspersed with witty puns, Barlow describes in detail the music-theoretical premises that govern the composition of the 30-minute work. A plural understanding of music history characterizes Barlow's aesthetics, bringing him close to Umberto Eco's theory of postmodernism. Instead of the tabula rasa of serial composition, his thinking is characterized by allusions and an effort to formalize historical phenomena such as meter, tonality, and style, while bringing his theory in line with the cognitive research of a Roger Shepard. In an interview with Gisela Gronemeyer, for example, he says: "In Çoğluotobüsişletmesi, I was immensely pleased to see that very many passages of music quite unintentionally resemble certain musical traditions of the world. There is Balinese music in it, Gregorian music, jazz in different variations. Also a bit of rock music in a certain place, and of course classical and romantic music, although I only wanted to capture one principle in the music. I wanted to write a really romantic piece, but I had no idea that my theory, my system would give me access to such styles".
-{% include begin-figure description="Screenshot AUTOBUSK by Clarence Barlow, considered one of the first real time, generative music applications in the history of computer music. It was based on the research performed while working on Çoğluotobüsişletmesi" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114465745-d2b8a900-9be7-11eb-9d20-a7dfa84490a4.png">
-{% include end-figure %}
+
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114465745-d2b8a900-9be7-11eb-9d20-a7dfa84490a4.png"  description="Screenshot AUTOBUSK by Clarence Barlow, considered one of the first real time, generative music applications in the history of computer music. It was based on the research performed while working on Çoğluotobüsişletmesi" %}
 
 ## CCRMA
 The establishment of IRCAM was aided by Max Mathews and John Chowing (* 1938) who co-founded the "Center for Computer Research in Music and Acoustics" (CCRMA) at Stanford University opening its doors in 1976. incidentally, Chowing was also involved in a failed attempt to establish a computer music research center at the Hamburg University of Music and Theater in 1973 on behalf of György Ligeti. Chowning is noted for his work in sound spatizaliation and the invention of FM synthesis, which made his university more than $25 million in licensing fees.
 
-{% include begin-figure description="Photo of John Chowning in front of a Yamaha synthesizer using the synthesis technique he invented" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114539124-7344b280-9c54-11eb-9887-39bcd61421ed.png">
-{% include end-figure %}
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114539124-7344b280-9c54-11eb-9887-39bcd61421ed.png"  description="Photo of John Chowning in front of a Yamaha synthesizer using the synthesis technique he invented" %}
 
 # THE INTERACTIVE STAGE
 ## The Digital Revolution is over
@@ -251,9 +236,7 @@ Composers who took up the memes of globalization and networking rather intuitive
 
 In the San Francisco Bay Area, computer-enthusiastic composers got together at the end of the 1970s and organized the first concerts with networked computers in 1978, calling themselves "The League of Automatic Music Composers" from 1980. The group "The Hub" emerged from this formation in 1987 and included John Bischoff, Tim Perkis, Mark Trayle, Chris Brown, Scot Gresham-Lancaster, and Phil Stone.
 
-{% include begin-figure description="Members of The Hub posing with their controllers" %}
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/17442406/114543271-48109200-9c59-11eb-8027-8b70eda5613b.png">
-{% include end-figure %}
+{% include img-figure width="500px" url="https://user-images.githubusercontent.com/17442406/114543271-48109200-9c59-11eb-8027-8b70eda5613b.png"  description="Members of The Hub posing with their controllers" %}
  
 While the possibilities of networked compositions were initially limited to local performances through the use of MIDI networks-where the technology originally developed for communication between musical instruments and computers, called Musical Instrument Digital Interface, or MIDI, was used to exchange data between computers-the 1990s saw the creation of broadband networking technology based on TCP/IP (Transmission Control Protocol/Internet Protocol), which was used to realize Web-based compositions beginning around 1996. 
 
