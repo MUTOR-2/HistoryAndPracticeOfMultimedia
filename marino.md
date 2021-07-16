@@ -3,23 +3,23 @@
 # unit information: 
 # Manifestations of Multimedia: Multimedia and Performance Art
 ###
-title: "'Technology as Practice' within Musical, Multimedia and Performance Arts responses and revivifications of Ursula M. Franklin's Massey Lectures from 1989."
+title: "'Technology as Practice' within Musical, Multimedia and Performance Arts: Responses and revivifications of Ursula M. Franklin's Massey Lectures from 1989."
 number: 8
 short_description: 
 summary: "This is a practitioner’s lecture by composer/performer jessie marino where we will focus on some of her strategies for composing and performing works of 'music' which use extra-musical materials and try to wrangle technology as a form of magic. Extra-musical materials are defined as elements not specifically related to sound, which can be organized and manipulated in time, such as physical gesture, lighting, video, props, toys, everyday objects, etc. We will look at some current day and historical references of works which use extra-musical materials and the technology available at the time, to create bodies of work which are hard to pin down as purely 'music' and consider the influences that currently shifting social, economic and political models have on these new modes of multi-disciplinary performance."
 authors: 
-- Johannes Kreidler
+- jessie marino
 topics: []
 
 references:
 
-  yasunao_tone:
+  burrows:
     authors:
-      - firstname: Y.
-        lastname: Tone
-    title: 'Wounded Many at Lovebytes'
-    publication: 'program notes from [Lovebytes Digital Art Festival](https://www.youtube.com/watch?v=HIDihdjWH7A)'
-    year: 2002
+      - firstname: J.
+        lastname: Burrows
+    title: "A Choreographer's Handbook"
+    publication: 'Routledge'
+    year: 2010
 
   ursula:
     authors:
@@ -37,13 +37,13 @@ references:
     publication: 'CBC Massey Lectures - Revised Edition. House of Anansi Press'
     year: 1999
 
-  burrows:
+  lem:
     authors:
-      - firstname: J.
-        lastname: Burrows
-    title: "A Choreographer's Handbook"
-    publication: 'Routledge'
-    year: 2010
+      - firstname: N.
+        lastname: Lem
+    title: "Menagerie"
+    publication: "Description of artwork in [Nolan Lem's website](https://www.nolanlem.com/menagerie.html)"
+    year: 2019
 
   moorman:
     authors:
@@ -53,14 +53,13 @@ references:
     publication: 'VHS, CMA.'
     year: 1982
 
-  lem:
+  yasunao_tone:
     authors:
-      - firstname: N.
-        lastname: Lem
-    title: "Menagerie"
-    publication: "Description of artwork in [Nolan Lem's website](https://www.nolanlem.com/menagerie.html)"
-    year: 2019
-
+      - firstname: Y.
+        lastname: Tone
+    title: 'Wounded Many at Lovebytes'
+    publication: 'program notes from [Lovebytes Digital Art Festival](https://www.youtube.com/watch?v=HIDihdjWH7A)'
+    year: 2002
 ###
 # page layout:
 # don't change
@@ -284,7 +283,7 @@ In Part One - the performers are sequestered to small illuminated boxes onstage 
 
 In Part Two - SCENATET stages a political address, modeled after the most recent State of the Union Address in the US. The language of this political spectacle has been filtered, removing all of the vowels from the language, and making percussive the remaining consonant letters. By altering the language and adding to this repeated physical gestures, the line between political drama and cult following begins to be blurred.
 
-{% include img-figure width="400px" url="assets/images/unit8/scenatet.png"  description="SCENATET performing at Darmstadt International Ferienkurse 2019 (Photo by Kristof Lemp)" %}
+{% include img-figure width="500px" url="assets/images/unit8/scenatet.png"  description="SCENATET performing at Darmstadt International Ferienkurse 2019 (Photo by Kristof Lemp)" %}
 
 In Part Three - The ensemble pushes cardboard boxes around the stage. On these boxes is projected different everyday video footage - making the boxes look like moving television screens. They move the boxes around in different configurations and eventually build up a stacking wall of blinking, glitching television sets.
 
