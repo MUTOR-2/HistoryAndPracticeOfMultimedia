@@ -187,7 +187,7 @@ The concept of instrumentating voice recordings for piano, i.e. digitizing them 
 
 {% include img-figure width="500px" url="assets/images/unit7/klavierstucke.png"  description="Arnorld Schoenberg - Piano Pieces Op.11" %}
 
-{% include begin-figure description="PCory Arcangel - Arnold Schoenberg, op. 11 - I - Cute Kittens" %}
+{% include begin-figure description="Cory Arcangel - Arnold Schoenberg, op. 11 - I - Cute Kittens" %}
 <div style="display: block; text-align: center; float: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lF6IBWTDgnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
