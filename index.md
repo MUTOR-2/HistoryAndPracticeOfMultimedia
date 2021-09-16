@@ -5,24 +5,18 @@ title: Home
 
 # History and Practice of Multimedia - Online Lecture Series
 
-This online English language lecture series focuses on the 
-History and Practice of Multimedia with an emphasis on music.
-We have invited members of the HfMT multimedia department
-as well as international scholars and practitioners to present
-on their respective fields of specialization 
-(Constantin Basica, Kerstin Evert, Teoma Naccarato, Cat Hope,
-Johannes Kreidler, Randall Packer, and others).
-Topics include the definition, history, and appearances of multimedia.
-The lecture series will take place during the summer term, every
-Wednesday at 18:30h starting on April 7.
+Welcome to the MUTOR series on the History and Practice of Multimedia! 
+The materials collected here were originally presented as a 12-part
+online lecture series in 2021. In the "Units" section of this site,
+you will find the text and 
+supporting media for each talk, as well as recordings of the talks
+themselves.
 
 This lecture series is part of the Hamburg Open Online University (HOOU) 
 and serves as the basis for a new class within the 
 Music Technology Online Repository (MUTOR).
 
-Links to the individual events will be posted here.
-
-# Dates (subject to change)
+# Original Schedule
 
 <style>
 a.index-tab-link:hover {
@@ -32,7 +26,7 @@ text-decoration: underline;
 <table class="hpm-event-table">
 <thead>
 <tr>
-<th>Date</th>
+<!--<th>Date</th>-->
 <th>Topics</th>
 <th>Presenters</th>
 <th>Event Page</th>
@@ -41,9 +35,11 @@ text-decoration: underline;
 </thead>
 <tbody>
 {% for post in site.posts reversed %}
+{% if post.exclude == true %}
+{% else %}
 <tr>
-<td>{{ post.presentation-date }}
-</td><td>{{ post.topic }}
+<!--<td>{{ begincomment }}{{ post.presentation-date }}{{ endcomment }}
+</td>--><td>{{ post.topic }}
 </td><td>
 {% assign npresenters = post.presenters | size %}
 {% if npresenters == 1 %}
@@ -67,6 +63,7 @@ and {{ p.name }}
 {% endif %}
 </td>
 </tr>
+{% endif %}
 {% endfor %}
 </tbody>
 </table>
