@@ -69,7 +69,7 @@ menu:
  - units
  - events
  - references.md
- - discussion_questions.md
+ #- discussion_questions.md
  - about.md
  - team.md
  - downloads.md

@@ -24,6 +24,11 @@ Links to the individual events will be posted here.
 
 # Dates (subject to change)
 
+<style>
+a.index-tab-link:hover {
+text-decoration: underline;
+}
+</style>
 <table class="hpm-event-table">
 <thead>
 <tr>
@@ -55,10 +60,10 @@ and {{ p.name }}
 {% endif %}
 {% endfor %}
 {% endif %}
-</td><td><a href="{{ site.baseurl }}{{ post.url }}">link</a>
+</td><td><a class="index-tab-link" href="{{ site.baseurl }}{{ post.url }}">link</a>
 </td><td>
 {% if post.unit %}
-<a href="{{ site.baseurl }}/units/{{ post.unit }}">link</a>
+<a class="index-tab-link" href="{{ site.baseurl }}/units/{{ post.unit }}">link</a>
 {% endif %}
 </td>
 </tr>
