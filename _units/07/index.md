@@ -11,10 +11,58 @@ Despite the media-nonspecificity that mental concepts first have, and the multi-
 But if the conceptual now encompasses all the arts, everything actually becomes multimedia art. The question then arises as to what specifically still constitutes >music< or what can constitute it in the future. Conceptual thinking in the arts has posed and continues to pose exciting challenges."
 authors: 
 - Johannes Kreidler
-topics: []
+topics: [Conceptual music, Extended definition of music]
 
 references:
  
+   lewitt:
+    authors:
+      - firstname: S.
+        lastname: LeWitt
+    title: "Paragraphs on Conceptul Art"
+    publication: '[Artforum](https://www.corner-college.com/udb/cproVozeFxParagraphs_on_Conceptual_Art._Sol_leWitt.pdf)'
+    year: June 1967
+
+   lewitt_2:
+    authors:
+      - firstname: S.
+        lastname: LeWitt
+    title: "Paragraphs on Concept-Art"
+    publication: 'Art-Language'
+    year: May 1969   
+
+   Cohen:
+    authors:
+      - firstname: S.
+        lastname: 'Kim-Cohen'
+    title: "In the blink of an ear. Toward a Non-Cochlear Sonic Art"
+    publication: 'Bloomsbury'
+    year: 2009  
+
+   Lehmann:
+    authors:
+      - firstname: H.
+        lastname: Lehmann
+    title: "Die digitale Revolution der Musik, Musikkonzepte"
+    publication: 'Schott'
+    year: 2012 
+
+   Osborne:
+    authors:
+      - firstname: P.
+        lastname: Osborne
+    title: "Anywhere or not at all. Philosophy of contemporary art"
+    publication: 'Verso'
+    year: 2013 
+
+   Kreidler_2:
+    authors:
+      - firstname: J.
+        lastname: Kreidler
+    title: 'Sätze über musikalische Konzeptkunst'
+    publication: 'Wolke'
+    year: 2018 
+
 ###
 # page layout:
 # don't change
@@ -38,7 +86,7 @@ Likewise Joseph Kossuth, whose *One and Three Chairs* consists of the concept of
 
 This practice was established in the visual arts in the 1960s and has been an integral part and highly popular ever since. Stars of contemporary art, such as Ai Weiwei, Santiago Sierra or Damian Hirst, are clearly counted as conceptual artists; if you go to Documenta, you see heaps of conceptual art. And in pop culture, concepts that can be implemented in infinite variations are now also established – the so-called Memes, a funny idea that then appears in all possible variations, or people perform it: for example, the *Harlem Shake*, a bizarre surprising dance number, or false subtitles under a scene from the film *The Downfall* – a concept with potentially infinite variations that can be implemented relatively easily by people all over the world, and which is eagerly done. 
 
-# Title1
+# Early conceptual music
 
 But what about music here? There too, there were some conceptualist works early on – even Duchamp had already devised a ›piece of music‹ whose components were simply put together by pulling them loose from a hat. 
 
@@ -50,7 +98,7 @@ Cage himself originally wrote the piece as a piano piece, which is of course alm
 
 And from the free instrumentation of the piece to its existence as thousands and thousands of videos on YouTube, we see that the piece has become a piece of multimedia art.
 
-# Title2
+# Process Music
 
 Other examples from the history of music: since the 1960s, there have been isolated pieces that at least came into the world from a central idea, albeit with a more sensual intention than the radical conceptual works of visual art. One could mention Steve Reich's *Pendulum Music*, which consists of the instruction to let several microphones swing over loudspeakers, always producing a feedback sound in the vicinity of the speakers. The composer has given almost all the details out of hand here: there is no score, the pitches are always different depending on the set-up; after the initial deflection, gravity alone does its job. Musically interesting are the patterns that result from the superimposition of periodic processes plus a constant decrease of energy. The principle is then feasible in many variations (in the meantime there is also the version by Aphex Twin with disco balls and lasers!). 
 
@@ -104,13 +152,14 @@ This of course has a parallel with Lucier, only this time not really technically
 There are recordings of these pieces, but first of all, in my opinion, knowledge of the concept, of this text, is essential here too (for the players anyway, these are their score, so to speak), but I think the following also applies to the listener: listen to the sound with the certainty that you have an infinite amount of time and space. And, I would like to say, it is perhaps again the subsequent, even more conceptual reading: after hearing the recording of Stockhausen's own musicians, for example, I actually prefer reading these pieces; understanding them as a mind game, as a musical idea alone in my head, similar to a lot of fluxus text pieces which cannot be realized.
 This brings me to a circumstance that jumps to mind here anyway: When I earlier praised Sol LeWitt's "scores" for paintings as an art-historical innovation, as a musician one must immediately think – yes, we've had that for a good thousand years! And it was on this level that in the time of the emerging conceptualism, i.e. in the 1960s, was recognised what was slumbering there. The notation of music is already a remarkable medial transformation of the sound into another medium, into the graphic, textual and quantitative, and thus also into the mind, and, with precursors back to the Renaissance, this dimension of music was also developed. Pieces like this are no longer playable at all, they are themselves aesthetic objects or, they refer to an imaginary music. I, too, have been active in this genre.
 
-{% include img-figure width="500px" url="http://www.sheetmusic-kreidler.com/wp-content/uploads/2013/11/aura1.gif"  description="Johannes Kreidler - Aura 'Sheet Music', 60 x 80 cm, 2013 " %}
+{% include img-figure width="500px" url="assets/images/unit7/aura.png"  description="Johannes Kreidler - Aura 'Sheet Music', 60 x 80 cm, 2013 " %}
+
 
 And this brings us to the heart of the matter: music itself is, as Manos Tsangaris puts it, the oldest multimedia art. We have just seen that music is not only sound, but also a graphic and textual practice in the form of notes. Text is also almost always present in music as the title of a piece, or a text is sung. Then the rendition of music is also a performative or even theatrical affair – after all, we don't close our eyes at a concert, we also like to look at how music is being played. Then the instruments are also objects, an almost sculptural quality is inherent in them, whose aesthetics the artists take up in 2D and 3D. Then sound as a spatial arrangement can also be an exhibition piece, “sound art”, rhythms can be articulated not only with sound but also with light and video. And, there are abstracted ideas of sound, of music, of the listening, concepts that are actually always there in music, and which have now also become more and more of interest and relevance for composition.
 
 Here you can see: if everything falls apart like this into the multimedia, what actually holds the thing together at all? It is the idea, the concept that can still define a work at all. Which is of course very dialectical, because as has already been shown, it is characteristic and constitutional for a concept that it can manifest itself in many different variants, indeed in different media forms of existence. Conceptual art is actually multimedia by definition, because there is the concept and then the possibility of manifold physical versions. So the genre of *music* is also up for discussion. Perhaps everything will now become media art. But more about that later.
 
-# Title3
+# What is conceptual music?
 
 Going further in history and with a focus on music – compared to the triumphant advance of conceptual art in the visual arts, conceptual works in music have remained rare. But before I explain this in more detail, I need to clarify what I am talking about. I will now give a (short) definition of conceptual music based on the definition Sol LeWitt gave of conceptual art. This clarification is necessary, because again and again (in the meantime) people claim things as conceptual music that, in my opinion, they are not. There is always conceptual thinking somewhere in the music, but a veritable conceptual music is still something of its own. 
 
@@ -132,7 +181,7 @@ So here is the reference to the ideal core of a work; even if or precisely becau
 Just like too many expressive interventions in the conceptual machine, too much good craft also spoils the conceptual character – because then the sensual appearance dominates over the ideal core again.
 And this is where the music is very lacking!
 
-# Title4
+# Musical specifications and problems
 
 I can see several reasons why conceptual art did not have a particularly wide resonance in music at first, unlike in the visual arts since the 1960s: 
 
@@ -187,7 +236,7 @@ The concept of instrumentating voice recordings for piano, i.e. digitizing them 
 
 {% include img-figure width="500px" url="assets/images/unit7/klavierstucke.png"  description="Arnorld Schoenberg - Piano Pieces Op.11" %}
 
-{% include begin-figure description="PCory Arcangel - Arnold Schoenberg, op. 11 - I - Cute Kittens" %}
+{% include begin-figure description="Cory Arcangel - Arnold Schoenberg, op. 11 - I - Cute Kittens" %}
 <div style="display: block; text-align: center; float: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lF6IBWTDgnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -283,6 +332,8 @@ At the same time, some theory on the subject was developed; 2009 saw the publica
 In 2012, Harry Lehmann's *The Digital Revolution of Music* was published, and in it there is the chapter "Conceptual Music": Lehmann explicitly focuses here on the conceptualisation of music as a consequence of digitalisation. 
 
 In 2013, Peter Osborne in his book *anywhere or not at all. Philosophy of contemporary art*, noted the "post-conceptual" status of art today; an unfortunate choice of words in my opinion, similar to ›post-internet‹, as if we were living in a "after" the internet or "after" conceptual art, which is not what is meant at all, but the "post" means a "since" the conceptual turn, "since" the internet. Anyway, Osborne says: "the medium-specific modernism of a plurality of arts is essentially a nineteenth-century tradition." In other words: everything becomes conceptual media art that sometimes uses this medium, sometimes that medium.
+
+# Sentences on musical concept-art
 
 And I wrote the book *Sentences on Musical Concept-Art*. From this book I will now present the title-giving ›Manifesto‹. Earlier I gave a short definition of conceptual music, now comes a comprehensive one:
 (My "sentences on musical concept-art" are, of course, refer to Sol LeWitt's *Sentences on Concept Art.*)
