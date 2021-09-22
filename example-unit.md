@@ -12,8 +12,9 @@ summary: This page contains examples of the basic formatting options
   (_site/units/example-unit.html) contains information about how to 
   format your unit, and is itself, along with its source file example-unit.md, 
   an example of how to construct a unit.
-authors: 
- - John MacCallum
+authors:
+ - name: John MacCallum
+   website: "https://john-maccallum.com"
 topics: [Jekyll, GitHub, Markdown, Liquid, YAML, HTML, Javascript, MUTOR Units]
 test_questions: 
  - How do you format a link in markdown?

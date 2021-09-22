@@ -10,7 +10,8 @@ summary: "Concept-art was established in the 1960s as a practice and label. It i
 Despite the media-nonspecificity that mental concepts first have, and the multi-mediality in which they are then implemented, conceptual art first became paradigmatic in the visual arts, while in music (as well as in theater and literature) only found its way extensively in the new millennium – the 'new conceptualism'. The latter is due to the added possibilities of the digital. 
 But if the conceptual now encompasses all the arts, everything actually becomes multimedia art. The question then arises as to what specifically still constitutes >music< or what can constitute it in the future. Conceptual thinking in the arts has posed and continues to pose exciting challenges."
 authors: 
-- Johannes Kreidler
+- name: Johannes Kreidler
+  website: "http://www.kreidler-net.de"
 topics: [Conceptual music, Extended definition of music]
 
 references:

@@ -8,8 +8,10 @@ number: 1
 short_description: Short description--one or two sentences
 summary: Summary description--150 words or so
 authors: 
-- First Author
-- Second Author
+- name: First Author
+  website: "https://google.com"
+- name: Second Author
+  website: "https://bing.com"
 topics: [Topic 1, Topic 2]
 test_questions:
 - Question 1

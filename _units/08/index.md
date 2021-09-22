@@ -8,7 +8,8 @@ number: 8
 short_description: 
 summary: "This is a practitioner’s lecture by composer/performer jessie marino where we will focus on some of her strategies for composing and performing works of 'music' which use extra-musical materials and try to wrangle technology as a form of magic. Extra-musical materials are defined as elements not specifically related to sound, which can be organized and manipulated in time, such as physical gesture, lighting, video, props, toys, everyday objects, etc. We will look at some current day and historical references of works which use extra-musical materials and the technology available at the time, to create bodies of work which are hard to pin down as purely 'music' and consider the influences that currently shifting social, economic and political models have on these new modes of multi-disciplinary performance."
 authors: 
-- jessie marino
+- name: jessie marino
+  website: "https://www.jessiemarino.com"
 topics: []
 
 references:
