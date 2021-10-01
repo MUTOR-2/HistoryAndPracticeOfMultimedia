@@ -1181,7 +1181,7 @@ technique, both rely on sequences of still images.
 As a thought experiment, let's pretend for a moment that this 
 image by Marey 
 
-{% include img-figure url="./Rückprall_eines_weißen_Balles_1886.jpg"
+{% include img-figure url="./marey_balls_1886.jpg"
 description="Ricochet of a white ball, Étienne-Jules Marey (1886)" %}
 
 was faked---let's imagine that it's simply a single image of a 
