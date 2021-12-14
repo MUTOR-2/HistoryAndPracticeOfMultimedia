@@ -133,13 +133,23 @@ Already at the beginning of the 20th century, in the newly developing context of
 
 Here are a few examples:
 
-- The aesthetics of the romantic ballet of the 19th century was very much influenced by e.g. light-technical innovations such as oil and gas lighting as well as the use of reflectors and filters and the development of flying machines, which shaped the supernatural character of the female characters of the romantic ballet. Together with the point show dance technique that was emerging at the time, the antigrave image of the ballerina first emerged. The ballet [*La Sylphide*]( https://www.youtube.com/watch?v=4EWj4liA-rg&ab_channel=StaatstheaterKA) is considered the starting point of the romantic ballet, and **Marie Taglioni** one of its style-defining interpreters.  
+- The aesthetics of the romantic ballet of the 19th century was very much influenced by e.g. light-technical innovations such as oil and gas lighting as well as the use of reflectors and filters and the development of flying machines, which shaped the supernatural character of the female characters of the romantic ballet. Together with the point show dance technique that was emerging at the time, the antigrave image of the ballerina first emerged. The ballet [*La Sylphide*]( https://www.youtube.com/watch?v=4EWj4liA-rg&ab_channel=StaatstheaterKA) is considered the starting point of the romantic ballet, and **Marie Taglioni** one of its style-defining interpreters. 
+
+{% include youtube-figure id="4EWj4liA-rg" 
+description="Ballet La Sylphide - Libretto Adolphe Nourrit, Music Jean-Madeleine Schneitzhoeffer, Coreographie Filippo Taglioni"%} 
 
 - **Edward Gordon Craig's** idea of the [*Über-Marionette*](https://www.britannica.com/art/Ubermarionette) (1908) is related to the concept of the marionette as a perfect body in Heinrich Kleist's essay [*Über das Marionettentheater*](https://de.wikisource.org/wiki/%C3%9Cber_das_Marionettentheater): Following Craig, humans are to imperfect to perform on stage. Thus, until the completion of the *Über-Marionette*, trained dancer’s bodies are to represent the human body on stage.
 
 - **Oskar Schlemmer's** space-sculptural costumes of the [*Triadic ballet*](https://www.youtube.com/watch?v=r4pJlj_bteQ&ab_channel=LACREAM) also refer to the idea of body mechanization.
 
+{% include youtube-figure id="r4pJlj_bteQ" 
+description="Oskar Schlemmer - Triadic ballet"%}
+
 - Already in the 19th century the dancing, moving body was an important topic in early photography and film. Towards the end of the 19th century, **Loie Fuller** for example experimented with a [special costume](https://www.youtube.com/watch?v=Dda-BXNvVkQ&ab_channel=SocialDeception), which consisted of sticks and large lengths of fabric. She projected images and films onto this costume and experimenting with advanced lighting technology of the time.
+
+{% include youtube-figure id="Dda-BXNvVkQ" 
+description="Loie Fuller - silent short film (1905)
+"%}
 
 # Merce Cunningham
 
@@ -159,7 +169,16 @@ Cunningham's work with chance means as a choreographic compositional technique a
 
 ## Choreographing with the computer
 
+{% include youtube-figure id="1FfSOUjnXso" 
+description="DanceForms by Janet Randell, a new digital dance resource"%}
+
 [*Life Forms*](https://www.youtube.com/watch?v=1FfSOUjnXso&ab_channel=CedarDance) in the beginning was a basic animation software, offered to Merce Cunningham in 1989 to use for feedback for the further development of the software. In the following years he developed some dance pieces based on choreographic material designed with life forms such as [*CRWDSPCR*](https://vimeo.com/297801999). The figures animated in the software can perform movements that are not possible with human bodies - like turning limbs or head 360°. Body shapes as images are created in the so called “figure editor”, which then become “key frames” in a “timeline”, which reminds of a film strip. The software can also render transitions between very different key frames and translate them into a smooth animation. Cunningham animated short choreographies and then brought them back into the dance studio. There, the human dancers had to adapt these movement sequences with and on their bodies.
+
+{% include begin-figure description="Merce Cunningham - CRWDSPCR" %}
+<div style="display: block; text-align: center; float: center">
+<iframe src="https://player.vimeo.com/video/297801999" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% include end-figure %}
 
 Here again this approach can be understood as film cutting technique. Compared to the example before, this time the transitions between the “key figures” of the animation – like screen shots in the flow of movement transitions - cannot simply be transferred to the body. Instead, the dancers had to be very inventive in order to find ways to perform these cuts with their bodies (like how to stay in the air and resist the law of gravity).
 
@@ -200,9 +219,15 @@ This would be a theater in which dance (possibly drama), music, scenery and, cer
 
 In quite some 1990’s dance productions, various interactive systems have been tested and used. The dance solo *In Plane* (1994) by the New York group "Troika Ranch" is another example of how a 'dialogue' is staged between the technology and the body staged as expanded by the technical components.
 
+{% include begin-figure description="Troika Ranch - In Plane" %}
+<div style="display: block; text-align: center; float: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_MyT3E44KC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% include end-figure %}
+
 The New York based dance-music cooperation Troika Ranch started to work with interactive systems in the late 1980s. They developed the so called “Midi-Dancer”, a full body suit with sensors at joints of the body (elbows, knees, hand wrist, hips). It functions as a wireless motion sensing system, which measures the degree of the flexion of joints, mediated via a transmitter placed under the stomach. As a body instrument it as such enabled the control of stage parameters like video projections, music, light.
 
-As a piece for one dancer [*In Plane*](https://www.youtube.com/watch?v=VPLCOCapSrQ&ab_channel=Libertar.io) in fact is a duet of the dancer with her own video image, a dialogue with technology, which seems to be reactive or “animated". The piece seems to demonstrate the dominance of (wo)man over technology. Technology is staged as extension of the body, operated by remote control through the “Midi-Dancer” without no direct touch of the devices. Although technology as body integrated extension seemingly allows the body to control the environment remotely, on a choreographic level the piece also reveals the limited choreographic possibilities of this setting, as the body has to serve the midi-dance suit’s sensors. 
+As a piece for one dancer [*In Plane*](https://www.youtube.com/watch?v=_MyT3E44KC4) in fact is a duet of the dancer with her own video image, a dialogue with technology, which seems to be reactive or “animated". The piece seems to demonstrate the dominance of (wo)man over technology. Technology is staged as extension of the body, operated by remote control through the “Midi-Dancer” without no direct touch of the devices. Although technology as body integrated extension seemingly allows the body to control the environment remotely, on a choreographic level the piece also reveals the limited choreographic possibilities of this setting, as the body has to serve the midi-dance suit’s sensors. 
 
 The software developed by Mark Coniglio interestingly is named [*Isadora*](https://troikatronix.com/) – and thus refers to Isadora Duncan, who understood dance (as we remember) as expression of the naturalness of the body).
 
