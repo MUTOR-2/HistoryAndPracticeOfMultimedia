@@ -14,7 +14,7 @@ This lesson will examine networked music from technical, performance and composi
 authors: 
 - name: Cat Hope
   website: ""
-topics: []
+topics: [Networked Music Performance]
 
 references:
 
