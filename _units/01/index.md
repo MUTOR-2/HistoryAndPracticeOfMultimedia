@@ -32,7 +32,8 @@ summary: "Over 150 years ago, the German composer Richard Wagner in his
   multimedia potentialities and realizations of the community of
   theater in a globally connected culture."
 authors: 
-- Randal Packer
+ - name: Randal Packer
+   website: "https://randallpacker.com"
 topics: [Before Telematics, Net Art, Telematic Hybridities, Love in the Telematic Embrace, Total Data Work (gesamtdatenwerk)]
 
 references:
