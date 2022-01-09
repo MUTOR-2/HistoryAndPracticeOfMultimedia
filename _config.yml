@@ -59,6 +59,12 @@ affiliates:
   width: "auto"
   height: "80px"
   style: ""
+ ccrma:
+  url: "https://ccrma.stanford.edu"
+  logo: "assets/images/CCRMA high-resolution logo.png"
+  width: "auto"
+  height: "40px"
+  style: ""
 
 # add the names of any files you want to appear in the menu.
 # the values "units" and "events" are keywords that will cause
