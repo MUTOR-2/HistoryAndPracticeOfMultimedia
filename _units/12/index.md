@@ -1260,7 +1260,7 @@ a rigid encoding of the body. If you do a handstand, it'll still
 make the connections in the right way. In fact, you don't even have 
 to put the elbow marker on your elbow, you could put it on your 
 penis, or wherever you want. 
-{% include img-figure url="./billtjones_ghostcatching.png" 
+{% include img-figure url="http://videodance.emptyfilm.com/historyimages/ghost2.jpg" 
 description="Bill T. Jones outfitted with motion capture markers (left), and the rendering of his motion capture data (right) as part of his work 'Ghostcatching'." %}
 While a marker-based system may not 
 need to have as rigid a conception of the body encoded in its 
