@@ -27,6 +27,12 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
+
 # Introduction
 
 Multimedia can be conceptually understood as a co-evolution of artistic expressions and computers, shaped by memes that have dominated our thinking since World War II. Among these are the axioms of information theory or cybernetics, which since their beginnings in the early 1940s have spread rapidly into seemingly unrelated fields such as literature, the visual arts, and music. It comes as no surprise that both cyberneticists have sought to apply their principles to the arts and artists have longed to use computers to formalize creative processes. This co-evolution has gone through three stages, which we could call speculative stage (1950-70), exploratory stages (1970-2000), and interactive stage (since 2000). Particularly in the transition to the last stage, we observe a paradigm shift that also goes hand in hand with a changing role of the arts and media in the globalized world. Some also refer to it as the Postdigital.

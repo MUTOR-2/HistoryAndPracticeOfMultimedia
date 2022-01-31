@@ -366,6 +366,12 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
+
 # Introduction
 
 This talk is going to give a brief introduction to my thinking about instrument and interaction design as an artistic practice, focusing on human-object relationships and the social contexts that frame these interactions.

@@ -74,6 +74,12 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
+
 # Introduction
 
 My name is jessie marino, I am a composer, a performer and a multimedia artist from Long Island New York - since 2019 I have lived and worked as a freelance musician in Berlin Germany. I consider myself a practitioner of sound, multi-media, and performance arts and also a habitual of collector of technology, not in a fetishized “got to catch em all” kind of way - but rather as a kind of creative resuscitator of technologically “infirm” devices.

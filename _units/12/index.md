@@ -244,6 +244,12 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
+
 # Representation
 
 Identity is a tricky concept; can an object be identical to another 

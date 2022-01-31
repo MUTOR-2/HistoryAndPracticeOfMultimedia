@@ -103,7 +103,7 @@ references:
     publication: "Die Zeit, 27.05."
     year: 2021
 
-flyer: "Mutor_kerstin_teoma_f.jpg"
+flyer: "Mutor_kerstin_teoma_f.png"
 ###
 # page layout:
 # don't change
@@ -114,6 +114,12 @@ mathjax: true
 ---
 
 {% include unit_preamble.md %}
+
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
 
 # Introduction
 

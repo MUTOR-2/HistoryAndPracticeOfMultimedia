@@ -220,7 +220,7 @@ references:
     title: "Synchronous Objects, Choreographic Objects, and the Translation of Dancing Ideas." 
     publication: "in Emerging Bodies : The Performance of Worldmaking in Dance and Choreography. ed. by Klein, G. and Noeth, S. Bielefeld: Transcript, 207–221."
     
-flyer: "Mutor_kerstin_teoma_f.jpg"
+flyer: "Mutor_kerstin_teoma_f.png"
 
 ###
 # page layout:
@@ -232,6 +232,12 @@ mathjax: true
 ---
 
 {% include unit_preamble.md %}
+
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
 
 # Introduction
 

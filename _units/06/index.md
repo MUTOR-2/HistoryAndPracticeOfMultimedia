@@ -451,6 +451,12 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
+
 >>>"Networked music is no longer a future genre. 
 The global quarantine event of 2020 launched the concept of performing together over the Internet into the mainstream"
 (Rebekah Wilson, 2020).

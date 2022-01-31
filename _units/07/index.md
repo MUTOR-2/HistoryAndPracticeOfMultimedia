@@ -77,6 +77,12 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
+
 # Introduction
 
 With modernity came not only the (by now) classical modernisms such as abstraction in painting, atonality in music or poems without semantics, not only metreless dance, collages and new artistic media such as photography, cinema and electronic music (and many more) - conceptual art also arrived: idea art. 

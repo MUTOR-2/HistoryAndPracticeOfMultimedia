@@ -163,6 +163,12 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
+
 # Some characteristics. Instead of clear definition 
 
 Giving a definition of sound installation art is difficult. This may be due to the fact that there are hardly any clear rules for this art form, as it is the case for most types of music. Also, the physical properties, that make up painting or sculpture, are missing. And even if it is possible to name a few typical characteristics, there is immediately a prominent counter-example.

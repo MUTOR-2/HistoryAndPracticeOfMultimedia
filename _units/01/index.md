@@ -51,6 +51,12 @@ mathjax: true
 
 {% include unit_preamble.md %}
 
+<!-- remove this when there is an animation -->
+<div style="text-align:center">
+<img src="{{ site.baseurl }}/assets/images/flyers/{{ page.flyer }}" style="width:50%;">
+</div>
+<!-- snip -->
+
 The original version of this essay can be found in Randall Packer's [website.](https://www.zakros.com/total-artwork-in-the-age-of-telematics/)
 
 # Pre-Ramble
