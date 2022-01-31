@@ -53,6 +53,12 @@ affiliates:
   width: "auto"
   height: "48px"
   style: ""
+ mmkh:
+  url: "https://www.mmkh.de"
+  logo: "assets/images/mmkh_logo.png"
+  width: "auto"
+  height: "48px"
+  style: ""
  hfmt:
   url: "https://www.hfmt-hamburg.de/start/"
   logo: "assets/images/hfmt_logo_black.png"
