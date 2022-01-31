@@ -410,7 +410,7 @@ of sound (musical pitch). Others followed this idea in the next two
 centuries and linked musical tones to colors.
 
 {% include img-figure url="https://farsidestudio.com/wp-content/uploads/Farside_FredCollopy_ColourSoundTable-2.png"
-descripton="Sound-color associations" %}
+description="Sound-color associations" %}
 
 Some of these scientists and artists also created contraptions to
 achieve the correlation between light and sound, named *color
@@ -478,7 +478,13 @@ Historically, visual music can be divided into the following stages:
 
 {% include youtube-figure id="jiJR1ET715M" description="Norman McLaren: Synchromy (1971)" %}
 
+{% comment %}
 {% include youtube-figure id="Ov8rFJ-hGrU" description="Vibeke Sorensen: NLOOPS (1989), with music by Rand Steiger" %}
+{% endcomment %}
+
+{% include begin-figure description="Vibeke Sorensen: NLOOPS (1989), with music by Rand Steiger" %}
+<iframe src="https://player.vimeo.com/video/89483425?h=2714d47cc4" width="640" height="468" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+{% include end-figure %}
 
 In most of these examples there is a very direct, one-to-one
 rhythmic correspondence between the visuals and the music. This is
@@ -535,8 +541,10 @@ even subtle vocalizations caused by the actions.
 
 ## Video Art
 
+{% comment %}
 {% include img-figure url="https://www.eai.org/user_files/images/title/_xl/jonas_leftside_xl.jpg"
 description="Joan Jonas: Left Side Right Side (1972)" %}
+{% endcomment %}
 {% include youtube-figure id="9UaRe6q7M4k" description="Joan Jonas: Left Side Right Side (1972)" %}
 
 Another art form that has been influential for today’s audiovisual
@@ -551,8 +559,10 @@ obsolescence of the original analogue medium, but the principles of
 video art have spread and evolved into various audiovisual genres,
 which is why it is useful to observe some of its characteristics.
 
+{% comment %}
 {% include img-figure url="https://i.pinimg.com/originals/1a/ed/e7/1aede781e03078ff866c0319c753524e.jpg"
 description="Nam June Paik / Charlotte Moorman: TV Cello (1976)" %}
+{% endcomment %}
 {% include youtube-figure id="-9lnbIGHzUM" description="Nam June Paik / Charlotte Moorman: TV Cello (1976)" %}
 
 First, video art has been an audiovisual genre from the
@@ -582,8 +592,10 @@ process. Therefore, video developed as a close relative to audio
 technology and its editing techniques (Viola quoted in Rogers 2013,
 p. 18).
 
+{% comment %}
 {% include img-figure url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/292051/preview"
 description="Martha Rosler: Semiotics of Kitchen (1975)" %}
+{% endcomment %}
 {% include youtube-figure id="ZuZympOIGC0" description="Martha Rosler: Semiotics of Kitchen (1975)" %}
 
 Second, video offered artists a platform for experimentation
@@ -604,8 +616,10 @@ context of music performance share a similar excitement for the
 freedoms and possibilities that the medium brings to the abstract
 world of music.
 
+{% comment %}
 {% include img-figure url="https://vasulkakitchen.org/sites/default/files/gallery/violinpower3.jpg"
 description="Steina Vasulka: Violin Power (1978)" %}
+{% endcomment %}
 {% include begin-figure 
 description="Steina Vasulka: Violin Power (1978)" %}
 <iframe src="https://player.vimeo.com/video/33471337?h=406f4f30b5" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -626,8 +640,10 @@ the performance conceded its physical liveness to a virtual version
 video art have remained influential in the works of media artists
 and audiovisual composers today.
 
+{% comment %}
 {% include img-figure url="https://blogs.uoregon.edu/brucenauman/files/2015/03/bruce_nauman_ir010108_c_brucenauman_haywardgallery_3-1b6v4qw.jpg"
 description="Bruce Nauman: Feed Me/Anthro-Socio (1993)" %}
+{% endcomment %}
 {% include youtube-figure id="VD7U5mcEepU" description="Bruce Nauman: Feed Me/Anthro-Socio (1993)" %}
 
 ## Music Video
@@ -802,7 +818,8 @@ and arguing that a new meaning arises when layers work
 together—emergent meaning—Cook defines three metaphor-based models
 of multimedia.
 
-{% include img-figure url="./models_of_multimedia.png" %}
+{% include img-figure url="./models_of_multimedia.png" 
+description="Models of Multimedia (Cook 1998, p. 99 – reconstructed by Constantin Basica)" %}
 
 To reach one of these three relationships one has to put the media,
 which in our case are the audiovisual layers, to a test. First is
@@ -1112,9 +1129,7 @@ on Baudrillard’s four stages of the image.
 
 1a) for example, a photograph
     
-{% include img-figure url="https://dpanoply.s3.amazonaws.com/blog/natural-light-baby-portrait-editing-lightroom-workflow/final.jpg"
-description="A photograph" %}
-{% assign baby-photo-fig=fignum %}
+{% include img-figure url="./baby.png" description="A photograph" %}
 
 1b) or the raw audio recording of an instrument
 
@@ -1126,7 +1141,9 @@ description="A photograph" %}
 
 2) *“it masks and denatures a profound reality”*
 
-2a) The image on the right in figure {{ baby-photo-fig }} could be a photograph that has been manipulated digitally
+2a) This could be a photograph that has been manipulated digitally
+
+{% include img-figure url="./baby-edited.png" description="An edited photograph" %}
 
 2b) in audio, a recording of an instrument may be edited/enhanced
 
@@ -1142,7 +1159,7 @@ description="A photograph" %}
 
 3a) an example may be a photograph that has been created digitally to simulate reality—hyperreality;
 
-{% include img-figure desc="A digitally created image"
+{% include img-figure description="Soul Machine's BabyX"
 url="https://venturebeat.com/wp-content/uploads/2017/05/baby-x-3.jpg?w=1200&strip=all" %}
 
 3b) a corresponding example in the realm of audio could be a recording of a digitally simulated instrument
@@ -1164,7 +1181,7 @@ url="https://venturebeat.com/wp-content/uploads/2017/05/baby-x-3.jpg?w=1200&stri
 4a) a digital image that has no correspondence in nature could fit in this category
 
 {% include img-figure url="https://beautifulbizarre-net.exactdn.com/wp-content/uploads/2018/02/patricia_piccinini_beautifulbizarre_025-1000x520.jpg"
-description="Pure simulacrum" %}
+description="A sculpture by Patricia Piccinini" %}
 
 4b) similarly, a recording of a synthesizer that does not sound like any known acoustic instrument would match this category
 
