@@ -3,7 +3,7 @@
 # unit information: 
 # Manifestations of Multi Media Music: New Conceptualism
 ###
-title: "Manifestations of Multi Media Music: New Conceptualism"
+title: "New Conceptualism"
 number: 7
 short_description: 
 summary: "Concept-art was established in the 1960s as a practice and label. It is 'idea art' - central to it are mental concepts, framings, which can be realised in various ways. (And thus the essence of framing itself always becomes a topic.) Think of the open form of Marcel Duchamp's readymade, the infinite possibilities of performing John Cage's silent piece 4:33, etc., all the way to today's meme culture on the internet.

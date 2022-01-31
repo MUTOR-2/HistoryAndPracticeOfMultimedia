@@ -3,7 +3,7 @@
 # unit information: 
 # Manifestations of Multimedia: 3D Sound
 ###
-title: "Manifestations of Multimedia: 3D Sound"
+title: "3D Sound"
 number: 10.2
 short_description: 
 summary: "Sound as Things in Space: Some Thoughts on 3D Audio.** We imagine sound as things, as bounded and tangible physical objects in three-dimensional space. “3D” is the way we perceive sound. And spatial language as a manifestation of spatial cognition is not just common in the description of spatial position and movement of auditory, visual or audiovisual objects, but also in the metaphorical description of pitch, timbre and intensity: A sound can be big or small, thick or thin, it can be edgy, sharp, flat or round, a tone can be high or low, a melody rising or falling. Can a listener distinguish between these metaphorical and physical/tangible properties of a sound? And how are spatial positions and trajectories of sound, spatial cognition and emotional impact related? The interdependencies between physical and metaphorical space become specifically interesting in “3D” audio systems like VR audio, Ambisonics or multichannel sound, where position and movement in space become creative devices."

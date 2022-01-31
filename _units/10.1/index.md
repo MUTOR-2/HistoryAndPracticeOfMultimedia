@@ -3,7 +3,7 @@
 # unit information: 
 # Manifestations of Multimedia: VR 
 ###
-title: "Manifestations of Multimedia: Virtual Reality"
+title: "Virtual Reality"
 number: 10.1
 short_description: 
 summary: "Virtual Reality: Benefits, Constraints and Challenges of a New Artistic Medium.** Virtual Reality (VR) has been a useful tool for many applications as well as designing experiences: from training simulations to immersive gaming experiences. Although VR already exists since the late 60s and technological advances make it more and more popular these days, still not everyone has an access to a headset or possesses one at home. We have some way to go before we can become the natives of this new medium. So what can we do with it in between? What are the benefits, constraints and challenges that this new medium brings along and how can we use this medium to create new artistic works?"

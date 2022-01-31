@@ -3,7 +3,7 @@
 # unit information: 
 # Manifestations of Multimedia: Networked Music Performance
 ###
-title: "Manifestations of Multimedia: Networked Music Performance"
+title: "Networked Music Performance"
 number: 6
 short_description: 
 summary: "

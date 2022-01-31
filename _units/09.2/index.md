@@ -3,7 +3,7 @@
 # unit information: 
 # Manifestations of Multimedia; Interactive Dance Performance
 ###
-title: "Manifestations of Multimedia: Dance, interaction, and virtuality in contemporary performance"
+title: "Dance, interaction, and virtuality in contemporary performance"
 number: 9.2
 short_description: 
 summary: "The integration of multimedia technology in dance since the early twentieth century has engendered and amplified concerns related to bodily abstraction and representation, as well as knowledge transmission. From large-scale motion capture projects with renowned choreographers, to the current swell of dance for camera and live-stream performance, this unit probes the entanglement of ethics, aesthetics, and politics in the shifting landscape of dance and technology."

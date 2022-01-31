@@ -3,7 +3,7 @@
 # unit information: 
 # Manifestations of Multimedia; Interactive Dance Performance
 ###
-title: "Manifestations of Multimedia: Dance and New Technologies - an Overview of Developments in the 20th Century"
+title: "Dance and New Technologies - an Overview of Developments in the 20th Century"
 number: 9.1
 short_description: 
 summary: "Since the beginning of the 20th century, choreographers and dancers in their artistic works have been seeking to engage with the new (media) technologies of their time. At the same time, these developments have repeatedly triggered controversial discussions about the role of the body in dance and in the technological context. The artistic work of the choreographer and dancer Merce Cunningham (1919-2009) in different phases of his life is the basis for this overview of essential topics and developments in the field of dance in relation to new media technologies in the 20th century."
