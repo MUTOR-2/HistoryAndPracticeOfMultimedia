@@ -13,14 +13,8 @@ authors:
 topics: [The Speculative Stage, The Exploratory Stage, The Interactive Stage]
 
 references:
- lamport78:
-  authors:
-   - firstname: L.
-     lastname: Lamport
-  title: 'Time, Clocks, and the Ordering of Events in a Distributed System'
-  publication: 'Communications of the ACM, 21(7): 558-565'
-  year: 1978
-  doi: 10.1145/359545.359563
+
+flyer: "Mutor_GeorgHajdu_f.jpg"
 
 ###
 # page layout:

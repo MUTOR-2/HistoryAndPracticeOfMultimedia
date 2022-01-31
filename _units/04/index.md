@@ -150,6 +150,8 @@ references:
     publication: 'Rowohlt Verlag, Hamburg'
     year: 1998
 
+flyer: "Mutor_jacobSello.jpg"
+
 ###
 # page layout:
 # don't change

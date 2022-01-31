@@ -221,7 +221,9 @@ references:
     year: 2014
     title: "A Statement on Sound (USSR, 1928)"
     publication: "Film Manifestos and Global Cinema Cultures, edited by Scott MacKenzie, Berkeley: University of California Press, 2014, pp. 565-568"
-  
+
+flyer: "Mutor_ConstantinBasica_f.jpg"
+
 ###
 # page layout:
 # don't change

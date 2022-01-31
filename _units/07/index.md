@@ -64,6 +64,8 @@ references:
     publication: 'Wolke'
     year: 2018 
 
+flyer: "Mutor_johanneskreidler.png"
+
 ###
 # page layout:
 # don't change

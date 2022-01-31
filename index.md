@@ -16,70 +16,82 @@ This lecture series is part of the Hamburg Open Online University (HOOU)
 and serves as the basis for a new class within the 
 Music Technology Online Repository (MUTOR).
 
-# Contents
+<div class="left" style="display:inline-block; vertical-align:top; padding-top: 100px;">
+  <span class="burger-menu" onclick="openNav()">
+    <h1 id="gotounits" style="cursor: pointer;">Go to Units</h1>
+    <!-- <script type="text/javascript"> -->
+    <!--   let gtu = document.getElementById("gotounits"); -->
+    <!--   gtu.addEventListener('mouseenter', function(){ -->
+	<!--   	this.style.background = '#FF0000'; -->
+	<!--   }); -->
+	<!--   gtu.addEventListener('mouseout', function(){ -->
+	<!--   	this.style.background = '#FFFFFF'; -->
+	<!--   }); -->
+    <!-- </script> -->
+  </span>
+</div>
+<div class="right" style="display:inline-block;">
+<div class="slideshow-wrapper">
+  
+  {% for u in site.units %}
 
-<style>
-a.index-tab-link:hover {
-text-decoration: underline;
-}
-</style>
-<table class="hpm-event-table">
-<thead>
-<tr>
-<!--<th>Date</th>-->
-<th>Unit</th>
-<th>Title</th>
-<th>Presenter(s)</th>
-<!-- <th>Event Page</th> -->
-<!-- <th>Unit</th> -->
-</tr>
-</thead>
-<tbody>
-{% for post in site.posts reversed %}
-{% if post.exclude == true %}
-{% else %}
-<tr>
-<td>
-{% if post.unit %}
-<a class="index-tab-link" href="{{ site.baseurl }}/units/{{ post.unit }}">{{ post.unit }}</a>
-{% endif %}
-</td>
-<td><a class="index-tab-link" href="{{ site.baseurl }}/units/{{ post.unit }}">{{ post.topic }}</a></td>
-<td>
-{% assign npresenters = post.presenters | size %}
+  <div class="slideshow-slide slideshow-fade">
+    <!-- <div class="slideshow-numbertext">{{ u.number }}</div> -->
+    <img src="./assets/images/flyers/{{ u.flyer }}" style="width:100%">
+    <!-- <div class="slideshow-caption">{{ u.title }}</div> -->
+  </div>
 
-{% if npresenters == 1 %}
-{% if post.presenters[0].website %}
-<a class="index-tab-link" href="{{ post.presenters[0].website }}">{{ post.presenters[0].name }}</a>
-{% else %}
-{{ post.presenters[0].name }}
-{% endif %}
+  {% endfor %}
+  
+  <a class="slideshow-prev" onclick="changeslide(-1)">&#10094;</a>
+  <a class="slideshow-next" onclick="changeslide(1)">&#10095;</a>
+  
+</div>
+<br>
 
-{% elsif npresenters == 2 %}
-{% if post.presenters[0].website %}
-<a class="index-tab-link" href="{{ post.presenters[0].website }}">{{ post.presenters[0].name }}</a>
-{% else %}
-{{ post.presenters[0].name }}
-{% endif %}
-and
-{% if post.presenters[1].website %}
-<a class="index-tab-link" href="{{ post.presenters[1].website }}">{{ post.presenters[1].name }}</a>
-{% else %}
-{{ post.presenters[1].name }}
-{% endif %}
-{% else %}
-{{ post.presenters[0].name }}
-{%- for p in post.presenters offset: 1 -%}
-{%- if forloop.last -%}
-and {{ p.name }}
-{%- else -%}
-, {{ p.name }}
-{% endif %}
-{% endfor %}
-{% endif %}
-</td>
-</tr>
-{% endif %}
-{% endfor %}
-</tbody>
-</table>
+<div style="text-align:center">
+
+  {% for u in site.units %}
+  
+  <span class="slideshow-dot" onclick="setslide({{ forloop.index }})"></span>
+  
+  {% endfor %}
+  
+</div>
+</div> <!-- right -->
+
+<script type="text/javascript">
+  var slideindex = 1;
+  showslides(slideindex);
+
+  // Next/previous controls
+  function changeslide(n)
+  {
+  	showslides(slideindex += n);
+  }
+
+  // Thumbnail image controls
+  function setslide(n)
+  {
+  	showslides(slideindex = n);
+  }
+
+  function showslides(n)
+  {
+  	var i;
+  	var slides = document.getElementsByClassName("slideshow-slide");
+  	var dots = document.getElementsByClassName("slideshow-dot");
+  	if (n > slides.length) { slideindex = 1 }
+  	if (n < 1) { slideindex = slides.length }
+    for (i = 0; i < slides.length; i++)
+    {
+    	slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++)
+    {                                
+    	dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideindex-1].style.display = "block";
+    dots[slideindex - 1].className += " active";
+  }
+</script>

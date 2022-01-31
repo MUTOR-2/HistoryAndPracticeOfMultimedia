@@ -179,6 +179,8 @@ references:
     publication: Basic Books 
     year: 2019
 
+flyer: "Mutor_KonstantinaThomas_f.jpg"
+
 ###
 # page layout:
 # don't change

@@ -353,6 +353,8 @@ references:
     publication: "Alma Books"
     year: 2018
 
+flyer: "Mutor_RamaGottfried.jpg"
+
 ###
 # page layout:
 # don't change

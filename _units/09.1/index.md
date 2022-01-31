@@ -102,7 +102,8 @@ references:
     title: "Wiedersehen mit der Wirklichkeit"
     publication: "Die Zeit, 27.05."
     year: 2021
-  
+
+flyer: "Mutor_kerstin_teoma_f.jpg"
 ###
 # page layout:
 # don't change

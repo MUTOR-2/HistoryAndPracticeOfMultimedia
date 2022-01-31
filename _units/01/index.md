@@ -38,6 +38,8 @@ topics: [Before Telematics, Net Art, Telematic Hybridities, Love in the Telemati
 
 references:
 
+flyer: "Mutor_RandalPacker_ffff.jpg"
+
 ###
 # page layout:
 # don't change

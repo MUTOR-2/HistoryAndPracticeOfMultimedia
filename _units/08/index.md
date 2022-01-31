@@ -61,6 +61,8 @@ references:
     title: 'Wounded Many at Lovebytes'
     publication: 'program notes from [Lovebytes Digital Art Festival](https://www.youtube.com/watch?v=HIDihdjWH7A)'
     year: 2002
+    
+flyer: "Mutor_jessiemarino_f.jpg"
 ###
 # page layout:
 # don't change

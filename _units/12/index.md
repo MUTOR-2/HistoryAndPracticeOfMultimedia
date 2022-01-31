@@ -230,7 +230,9 @@ references:
   title: 'How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics'
   publication: "University of Chicago Press"
   year: 1999
-  
+
+flyer: "Mutor_teoma_john.jpg"
+
 ###
 # page layout:
 # don't change

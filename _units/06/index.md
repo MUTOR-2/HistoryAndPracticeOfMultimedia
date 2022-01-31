@@ -437,6 +437,8 @@ references:
     title: "Open Sound Control: an enabling technology for musical networking"
     publication: 'Organised Sound, 10: 3, pp. 193- 200'
     year: 2005
+    
+flyer: "Mutor_cathope_f.jpg"
 
 ###
 # page layout:
