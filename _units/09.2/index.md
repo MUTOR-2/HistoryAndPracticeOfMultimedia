@@ -435,7 +435,7 @@ identity markers in motion capture systems. Goldman suggests that:
 > and race, to appear on stage?
 {% include cite ref="goldman" %}
 
-Placing the work of Jones in conversation with that of Cunninham,
+Placing the work of Jones in conversation with that of Cunningham,
 Goldman emphasises tension between politics and form when generating
 representations of human bodies and identities. Jones himself speaks
 to this tension and argues, contrary to Cunningham’s formalist
@@ -488,7 +488,7 @@ the performer, as well as the eye of the beholder {% include cite
 ref="goldman" %}. What are the implications, then, when movement
 becomes abstracted from the body of the performer as well as the
 context of capture? Are the implications different when we are
-speaking about Jones, versus the dancers in Cunninham’s work who I
+speaking about Jones, versus the dancers in Cunningham’s work who I
 have not even named? Are the digital bodies in these two pieces
 interchangeable with one another – and if not, why?
 
