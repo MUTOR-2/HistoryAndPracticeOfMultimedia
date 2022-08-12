@@ -660,7 +660,7 @@ One of the first research groups to take advantage of the improved network perfo
 The European Bridges Ensemble was established in 2005 for Internet and network performance where the development and performance of works created involved no physical contact between the composers whatsoever. Featuring members across central European cities, they often performed with Georg Hajdu’s interactive network performance environment Quintet.net, a collaborative network software in MaxMSP that is still being developed today {% include cite ref="hajdu" %}.
 
 {% include youtube-figure id="k8xrRfEqqo4" 
-description="European Bridges Ensemble performing ‘Quintessence’ (2006), by Georg Hadjdi,  a quintet.net networked performance." %}
+description="European Bridges Ensemble performing ‘Quintessence’ (2006), by Georg Hajdu,  a quintet.net networked performance." %}
 
 # Laptop Orchestras
 
